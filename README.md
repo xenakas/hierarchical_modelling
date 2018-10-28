@@ -46,6 +46,30 @@ Python Packages:
 
 
 
+Data:
+
+- [Eurostat](https://ec.europa.eu/eurostat/web/environmental-data-centre-on-natural-resources/data/main-tables)
+
+- BEA US: [GDP by state](https://www.bea.gov/data/gdp/gdp-state), [GDP by industry](https://www.bea.gov/industry/gdpbyind-data) 
+
+- [FRED US](https://fred.stlouisfed.org/series/TXNQGSP)
+
+- Witchita Liberty: [Real Gross Domestic Product by state and industry](https://wichitaliberty.org/economics/gdp-by-state-and-industry/), [GDP by state and industry](https://wichitaliberty.org/economics/gdp-state-industry-2/), [Quarterly gross domestic product by state](https://wichitaliberty.org/economics/quarterly-gross-domestic-product-by-state/), 
+
+- Tableau US: [5 year change](https://public.tableau.com/profile/bobweeks#!/vizhome/GDPbyStateandComponents/5YearChangebyState), [quaterly](https://public.tableau.com/profile/bobweeks#!/vizhome/GDPbyStateRealQuarterly2014-08-21/Composition), [private vs government](https://public.tableau.com/profile/bobweeks#!/vizhome/QuarterlyGDPbystateandindustrynewprototypestatistics2015-09/States)
+
+
+
+
+- [DataMarket](https://datamarket.com/data/set/15qd/net-migration#!ds=15qd!hr0&display=line)
+
+- [World Bank](https://data.worldbank.org/indicator/NV.AGR.TOTL.ZS?name_desc=false&view=chart)
+
+- [United Nations library](http://libraryresources.unog.ch)
+
+
 Offtop: 
 
 - [Asymmetric time aggregation and its potential benefits for forecasting annual data](https://link.springer.com/article/10.1007/s00181-014-0864-0)
+
+- [Forecasting with group seasonality](https://pure.tue.nl/ws/files/1718873/200610743.pdf)
