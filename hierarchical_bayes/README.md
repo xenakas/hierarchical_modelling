@@ -24,4 +24,11 @@
 
 
 
+
+- [ ] [Forecasting cross-population innovation diffusion: A Bayesian approach](https://www.sciencedirect.com/science/article/abs/pii/S0167811605000315):
+A limitation of the proposed HB method is that it requires an analytical solution 
+for the differential equation underlying the diffusion process. 
+
+
+
 - [ ] [Application of a Full Hierarchical Bayesian Model in Assessing Streamflow](http://coweeta.uga.edu/publications/10656.pdf) 
