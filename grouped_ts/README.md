@@ -8,7 +8,20 @@
 
 
 
+
+
+
+
+- [ ] [Essays in Hierarchical Time Series Forecasting and Forecast Combination](https://core.ac.uk/download/pdf/154428359.pdf)
+
+
+
 - [ ] [Fast computation of reconciled forecasts for hierarchical and grouped time series](https://robjhyndman.com/papers/hgts4.pdf)
+
+
+
+
+
 
 
 
@@ -16,6 +29,16 @@
 
 - [ ]  Grouped and hierarchical TS ([in matrix form](https://forecasters.org/wp-content/uploads/gravity_forms/7-2a51b93047891f1ec3608bdbd77ca58d/2014/07/Athanasopoulos_George_ISF2014.pdf))
 
+
+
+
+
+
+
+- [ ] [Offline Design Tuning for Hierarchies of Forecast Models](http://cs.emis.de/LNI/Proceedings/Proceedings180/167.pdf)
+
+
+- [ ] [Uncertainty and variability in demography and population growth: a hierarchical approach](http://zero.sci-hub.tw/3978/f6fab7692f0e7bfaf6c1c9662cde415e/clark2003.pdf)
 
 
 
