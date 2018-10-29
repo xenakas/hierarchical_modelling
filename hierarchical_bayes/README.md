@@ -1,10 +1,15 @@
 # Hierarchical Bayesian Modelling
 
 
+- [ ] [Approximate Bayesian Inference in Conditionally Independent Hierarchical Models (Parametric Empirical Bayes Models)](https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/readings/kass-steffey.pdf): conditionally independent hierarchical models
+
 - [ ] [The Best Of Both Worlds: Hierarchical Linear Regression in PyMC3](https://twiecki.github.io/blog/2014/03/17/bayesian-glms-3/)
 
 
 - [ ] [Why hierarchical models are awesome, tricky, and Bayesian](https://twiecki.github.io/blog/2017/02/08/bayesian-hierchical-non-centered/)
+
+
+
 
 
 
