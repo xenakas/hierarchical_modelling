@@ -162,6 +162,13 @@ In addition there are functions for discretizing continuous random variables.
 
 #### Offtop: 
 
+- [ ] [Introduction to recursive Bayesian filtering](https://people.csail.mit.edu/mrub/talks/filtering.pdf)
+
+
+- [ ] [From Bayes to Extended Kalman Filter](http://people.ciirc.cvut.cz/~hlavac/TeachPresEn/55AutonomRobotics/2015-05-04ReinsteinBayes-ekf.pdf)
+
+
+
 - [Asymmetric time aggregation and its potential benefits for forecasting annual data](https://link.springer.com/article/10.1007/s00181-014-0864-0)
 
 
@@ -171,6 +178,7 @@ In addition there are functions for discretizing continuous random variables.
 
 
 - [Dynamic Bayesian Predictive Synthesis in Time Series Forecasting](https://arxiv.org/pdf/1601.07463.pdf): Posterior Computations via MCMC,  US Macroeconomic Time Series
+
 
 
 
