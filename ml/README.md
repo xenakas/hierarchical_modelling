@@ -33,6 +33,8 @@ similarity/distance measures, clustering algorithms, r tutorial
 
 - [ ] [R examples](http://www.rdatamining.com/examples/hierarchical-clustering)
 
+- [ ] [Hierarchical Clustering in R](https://www.datacamp.com/community/tutorials/hierarchical-clustering-R)
+
 - [ ] [Forecast Combination in R (geomcomb)](http://www.ceweiss.com/geomcomb-forecast-combination-in-r/)
 
 
