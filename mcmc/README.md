@@ -9,6 +9,10 @@ In rare event sampling, they are also used for generating samples that gradually
 
 - [ ] [MCMC for hierarchical models  or “an entire MCMC course in 90 minutes”](http://www.math.chalmers.se/~bodavid/GMRF2015/Lectures/F6slides.pdf)
 
+
+- [ ] [An Introduction to MCMC for Machine Learning](https://link.springer.com/content/pdf/10.1023%2FA%3A1020281327116.pdf)
+
+
 - [ ] [Advanced Hierarchical Modeling with the MCMC Procedure](https://support.sas.com/resources/papers/proceedings17/SAS0478-2017.pdf) 
 with SAS/STAT software
 
