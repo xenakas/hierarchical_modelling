@@ -9,6 +9,9 @@
 
 
 
+- [ ] [Portfolio selection using hierarchical Bayesian analysis and MCMC methods](https://www.sciencedirect.com/science/article/pii/S0378426605000889?via%3Dihub): MCMC; Gibbs sampling; Hierarchical Bayes
+
+
 - [ ] Practical Considerations & Why HBM ([Page 20](http://astrostatistics.psu.edu/RLectures/hierarchical.pdf))
 
 
