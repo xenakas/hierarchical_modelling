@@ -12,9 +12,16 @@ In rare event sampling, they are also used for generating samples that gradually
 
 - [ ] [An Introduction to MCMC for Machine Learning](https://link.springer.com/content/pdf/10.1023%2FA%3A1020281327116.pdf)
 
+- [ ] [NUTS](https://arxiv.org/pdf/1111.4246.pdf): HMC MCMC for Hierarchical Bayesian models
+
+
+- [ ] [Bayesian Inference: Gibbs Sampling](http://www.mit.edu/~ilkery/papers/GibbsSampling.pdf)
 
 - [ ] [Advanced Hierarchical Modeling with the MCMC Procedure](https://support.sas.com/resources/papers/proceedings17/SAS0478-2017.pdf) 
 with SAS/STAT software
+
+
+
 
 MCMC code:
 
