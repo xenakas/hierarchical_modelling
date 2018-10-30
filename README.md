@@ -1,5 +1,11 @@
 # hierarchical_modelling
 
+- [ ] [Forecasting Economic Aggregates Using
+Dynamic Component Grouping](https://mpra.ub.uni-muenchen.de/81585/1/MPRA_paper_81585.pdf)
+
+
+- [ ] [Forecasting output growth rates and median output growth rates: a hierarchical Bayesian approach
+](https://onlinelibrary.wiley.com/doi/pdf/10.1002/for.800)
 
 
 - [ ] [MCMC in 60 minutes](http://www.math.chalmers.se/~bodavid/GMRF2015/Lectures/F6slides.pdf)
@@ -173,6 +179,8 @@ simulation (bootstrap) of Variable Length Markov Chain ('VLMC') Models. [Dendogr
 - [ ] Unsupervised Learning in R or Unsupervised Learning in Python
 
 #### Offtop: 
+
+- [ ] [A large Bayesian vector autoregression model for Russia ](http://www.cbr.ru/content/document/file/16690/wps_1_e.pdf)
 
 - [ ] [Statistical Shrinkage](https://eranraviv.com/shrinkage-in-statistics/)
 
