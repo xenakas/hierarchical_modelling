@@ -26,6 +26,7 @@ Hidden Markov model (HMM) is a common model based algorithm adopted in time seri
 similarity/distance measures, clustering algorithms, r tutorial
 
 
+- [ ] [Voting in Clustering and Finding the Number of Clusters](http://epub.wu.ac.at/684/1/document.pdf)
 
 
 
@@ -97,7 +98,11 @@ any known model for the data; we do not even require independence between the sa
 
 - [ ] [An unsupervised conditional random fields approach for clustering gene expression time series](https://pdfs.semanticscholar.org/df3b/de558808516ce834189ba50004f85a86e815.pdf)
 
-
+- [ ] [Clustering Time Series Data: An Evolutionary
+Approach ](https://pdfs.semanticscholar.org/2c61/7a569a96fb3f34f182e18202d383f22d060b.pdf)
+ 
+- [ ] [Time Series Clustering in the
+Field of Agronomy](https://team.inria.fr/zenith/files/2013/11/ia_ma_thesis_final.pdf)
 
 
 
