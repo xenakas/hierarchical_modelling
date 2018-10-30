@@ -121,6 +121,10 @@ given a set of data and an estimator of the parameter, using numerical different
 simulation (bootstrap) of Variable Length Markov Chain ('VLMC') Models. [Dendograms](https://rdrr.io/cran/VLMC/man/as.dendrogram.vlmc.html)
 
 
+- [WeightedCluster](https://cran.r-project.org/web/packages/WeightedCluster/WeightedCluster.pdf): Clusters state sequences and weighted data. It provides an optimized weighted PAM algorithm
+as well as functions for aggregating replicated cases, computing cluster quality measures
+for a range of clustering solutions and plotting clusters of state sequences.
+
 #### Python Packages: 
 
 - [pymc3](https://docs.pymc.io) PyMC3 is a Python package for Bayesian statistical modeling and Probabilistic Machine Learning focusing on advanced Markov chain Monte Carlo (MCMC) and variational inference (VI) algorithms. Its flexibility and extensibility make it applicable to a large suite of problems.
