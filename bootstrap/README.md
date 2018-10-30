@@ -20,6 +20,8 @@ Bootstrap:
 - [ ] [Bootstrap Methods for Time Series](https://www.kevinsheppard.com/images/0/0a/Kreiss_and_lahiri.pdf)
 
 
+- [ ] [The miracle of the bootstrap](http://thestatsgeek.com/2013/07/02/the-miracle-of-the-bootstrap/ )
+
 
 - [ ] [Discussion: Bootstrap methods for dependent data: A review](http://mapageweb.umontreal.ca/goncals/documents/Goncalves-Politis-2011.pdf)
 
@@ -48,6 +50,16 @@ Bootstrap:
 
 
 
+Bootstrap for small samples:
+
+- [ ] [Bootstrap algorithms for small samples](https://www.sciencedirect.com/science/article/pii/0378375891900135)
+
+- [ ] [The Bootstrap Small Sample Properties](http://faculty.washington.edu/fscholz/Reports/bootstrap-report.pdf)
+
+- [ ] [Small-Sample Inference and Bootstrap ](https://ocw.mit.edu/courses/sloan-school-of-management/15-450-analytics-of-finance-fall-2010/lecture-notes/MIT15_450F10_lec09.pdf )
+
+- [ ] [A First Look on Smaller Sized Samples for Bootstrap Derived Patterns of Profile Analysis via Multidimensional Scaling](http://ibmi.mf.uni-lj.si/mz/2013/no-1/Bratkovic2013.pdf)
+
 
 R package:
 
@@ -68,6 +80,8 @@ simulation (bootstrap) of Variable Length Markov Chain ('VLMC') Models. [Dendogr
 
 
 Offtop:
+
+- [ ] [Bootstrapping Errors-In-Variables Models](https://pdfs.semanticscholar.org/bb2b/38c3bbd0e0875288c1a29f10c3cc9276ef82.pdf)
 
 - [ ] [AR-sieve](https://projecteuclid.org/download/pdf_1/euclid.ss/1023798998)
  
