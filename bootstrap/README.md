@@ -15,7 +15,7 @@
 
 - [ ] [Resampling Methods for statistical inference](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.182.1011&rep=rep1&type=pdf)
 
-- [ ] [Bolasso: Model Consistent Lasso Estimation through the Bootstrap](https://www.di.ens.fr/~fbach/fbach_bolasso_icml2008.pdf
+- [ ] [Bolasso: Model Consistent Lasso Estimation through the Bootstrap](https://www.di.ens.fr/~fbach/fbach_bolasso_icml2008.pdf)
 
 - [ ] [Quick-R boot tutorial](https://www.statmethods.net/advstats/bootstrapping.html)
 
