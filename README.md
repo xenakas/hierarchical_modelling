@@ -174,6 +174,8 @@ simulation (bootstrap) of Variable Length Markov Chain ('VLMC') Models. [Dendogr
 
 #### Offtop: 
 
+- [ ] [Statistical Shrinkage](https://eranraviv.com/shrinkage-in-statistics/)
+
 - [ ] [Introduction to recursive Bayesian filtering](https://people.csail.mit.edu/mrub/talks/filtering.pdf)
 
 
@@ -193,7 +195,7 @@ simulation (bootstrap) of Variable Length Markov Chain ('VLMC') Models. [Dendogr
 
 
 
-
+- [Forecasting with Medium and Large Bayesian VARs](http://ecares.ulb.ac.be/ecaresdocuments/seminars1011/koop.pdf)
 
 
 
