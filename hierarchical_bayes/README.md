@@ -42,9 +42,16 @@ James-Stein inference
 - [ ] [Empirical Bayes and the
 James–Stein Estimator](http://statweb.stanford.edu/~ckirby/brad/LSI/chapter1.pdf)
 
+- [ ] [Bayesian Measures of Explained Variance and
+Pooling in Multilevel (Hierarchical) Models](http://www.stat.columbia.edu/~gelman/research/published/rsquared.pdf)
 
+- [ ] [Summarizing explained variance and partial pooling](https://web.as.uky.edu/statistics/users/pbreheny/701/S13/notes/4-18.pdf)
 
 Offtop:
+
+
+- [ ] [Hierarchical Partial Pooling for Repeated Binary Trials](https://cran.r-project.org/web/packages/rstanarm/vignettes/pooling.html)
+
 
 - [ ] [Implications of Stein’s Paradox for Environmental Standard Compliance Assessment](https://pubs.acs.org/doi/pdf/10.1021/acs.est.5b00656): Stein's Paradox Example and its modern generalization, the Bayesian hierarchical model
 
@@ -60,6 +67,8 @@ Offtop:
 - [ ] [Multivariate Hierarchical Bayesian space-time models in economics](https://pdfs.semanticscholar.org/6b32/a25f92d88656803be25202c673cfc27347ce.pdf)
 
 
+
+- [ ] [https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/1998WR900043](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/1998WR900043)
 
 
 
