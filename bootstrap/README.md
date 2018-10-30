@@ -1,5 +1,16 @@
 # Bootstrap and small sample problem
 
+
+Small sample:
+
+
+- [ ] [On Using Bayesian Methods to Address Small Sample Problems](https://www.tandfonline.com/doi/abs/10.1080/10705511.2016.1186549?src=recsys&journalCode=hsem20)
+
+
+Bootstrap:
+
+
+
 - [ ] [R, Parametric, Maximum Entropy bootstrap](http://www.quantdevel.com/public/CSP2015/Talk/BootstrappingTimeSeriesData.pdf) 
 
 - [ ] [Resampling Methods for Time Series](http://www-stat.wharton.upenn.edu/~stine/stat910/lectures/13_bootstrap.pdf)
@@ -32,9 +43,9 @@
 
 - [ ] [Sufficient bootstrapping](https://www.sciencedirect.com/science/article/pii/S0167947310003981)
 
-Block Bootstrap:
 
-- [The Impact of Bootstrap Methods on Time Series Analysis](http://www.math.ucsd.edu/~politis/StatSci03.pdf)
+- [ ] [The Impact of Bootstrap Methods on Time Series Analysis](http://www.math.ucsd.edu/~politis/StatSci03.pdf)
+
 
 
 
@@ -59,6 +70,8 @@ simulation (bootstrap) of Variable Length Markov Chain ('VLMC') Models. [Dendogr
 Offtop:
 
 - [ ] [AR-sieve](https://projecteuclid.org/download/pdf_1/euclid.ss/1023798998)
+ 
+- [ ] [Stein’s Method for the Bootstrap](http://www.stats.ox.ac.uk/~reinert/papers/steinbootstrap.pdf)
  
 - [ ] [The Stationary Bootstrap](https://www.tandfonline.com/doi/abs/10.1080/01621459.1994.10476870)
 
