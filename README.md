@@ -11,6 +11,8 @@
 
 
 
+
+
 - [ ] [Time Series Clustering/Classification](http://www.stat.unc.edu/faculty/pipiras/timeseries/Multivariate_6_-_Classification_Clustering_-_Menu.html#what_is_this_all_about)
 similarity/distance measures, clustering algorithms, r tutorial
 
@@ -45,7 +47,11 @@ Kalman Filter,  Conditionally Independent Hierarchical method,  BVAR.  Time seri
 - [ ] [Forecasting Method for Grouped Time Series with the Use of k-Means Algorithm](https://arxiv.org/pdf/1509.04705.pdf)
 
 
+- [ ] [Resampling Methods for Time Series](http://www-stat.wharton.upenn.edu/~stine/stat910/lectures/13_bootstrap.pdf)
 
+
+
+- [ ] [Discussion: Bootstrap methods for dependent data: A review](http://mapageweb.umontreal.ca/goncals/documents/Goncalves-Politis-2011.pdf)
 
 
 #### R Packages: 
@@ -101,6 +107,12 @@ Furthermore, it provides functions for estimating Kullback-Leibler divergence,
 chi-squared, mutual information, and chi-squared statistic of independence.
 In addition there are functions for discretizing continuous random variables.
 
+- [boot](https://cran.r-project.org/web/packages/boot/boot.pdf): Calculate equi-tailed 
+two-sided nonparametric approximate bootstrap confidence intervals for a parameter,
+given a set of data and an estimator of the parameter, using numerical differentiation.
+
+- [VLMC](https://cran.r-project.org/web/packages/VLMC/VLMC.pdf):  Functions, Classes & Methods for estimation, prediction, and
+simulation (bootstrap) of Variable Length Markov Chain ('VLMC') Models. [Dendograms](https://rdrr.io/cran/VLMC/man/as.dendrogram.vlmc.html)
 
 
 #### Python Packages: 
