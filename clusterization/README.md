@@ -42,7 +42,10 @@ similarity/distance measures, clustering algorithms, r tutorial
 
 - [ ] [Time Series Classification and Clustering with Python](http://alexminnaar.com/time-series-classification-and-clustering-with-python.html)
 
+- [ ] [WACA: A Hierarchical Weighted Clustering Algorithm optimized for Mobile Hybrid Networks](https://arxiv.org/pdf/0706.1080.pdf)
 
+
+- [ ] [Weighted clustering](http://www.cs.fsu.edu/~ackerman/CIS5930/notes/Weighted%20clustering.pdf)
 
 - [ ] [Forecasting Method for Grouped Time Series with the Use of k-Means Algorithm](https://arxiv.org/pdf/1509.04705.pdf)
 
