@@ -1,10 +1,13 @@
 # Hierarchical Bayesian Modelling
 
+- [ ] [Multilevel (Hierarchical) Modeling: What It Can and Cannot Do](http://www.stat.columbia.edu/~gelman/research/published/multi2.pdf)
+
 - [ ] [Forecasting output growth rates and median output growth rates: a hierarchical Bayesian approach](https://onlinelibrary.wiley.com/doi/pdf/10.1002/for.800)
 
 - [ ] [Hierarchical models ](https://www.ics.uci.edu/~sternh/courses/225/slides2new.pdf): motivation
 James-Stein inference 
 
+- [ ] [Hierarchical (multilevel) models for survey data](https://sites.fas.harvard.edu/~stats/survey-soft/hierarchical.html)
 
 - [ ] [Hierarchical Models](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/hierarchical-models.pdf)
 
@@ -71,6 +74,8 @@ Offtop:
 - [ ] [https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/1998WR900043](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/1998WR900043)
 
 
+- [ ] [Hierarchical Models](http://genomicsclass.github.io/book/pages/hierarchical_models.html)
+
 
 - [ ] [Forecasting cross-population innovation diffusion: A Bayesian approach](https://www.sciencedirect.com/science/article/abs/pii/S0167811605000315):
 A limitation of the proposed HB method is that it requires an analytical solution 
@@ -78,5 +83,9 @@ for the differential equation underlying the diffusion process.
 
 
 - [ ] [UNCERTAINTY AND VARIABILITY IN DEMOGRAPHY AND POPULATION GROWTH: A HIERARCHICAL APPROACH](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/0012-9658(2003)084%5B1370:UAVIDA%5D2.0.CO%3B2)
+
+
+- [ ] [The Use of Sampling Weights in Bayesian Hierarchical Models for Small Area Estimation](https://www.stat.washington.edu/sites/default/files/files/reports/2011/tr583.pdf)
+
 
 - [ ] [Application of a Full Hierarchical Bayesian Model in Assessing Streamflow](http://coweeta.uga.edu/publications/10656.pdf) 
