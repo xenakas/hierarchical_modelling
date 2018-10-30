@@ -15,6 +15,7 @@ Hidden Markov model (HMM) is a common model based algorithm adopted in time seri
 
 - [ ] [Time-series clustering – Decade overview](https://www.sciencedirect.com/science/article/abs/pii/S0306437915000733) 
 
+- [ ] [Forecasting Economic Aggregates Using Dynamic Component Grouping](https://mpra.ub.uni-muenchen.de/81585/1/MPRA_paper_81585.pdf)
 
 
 - [ ] [Optimal combination forecasts for hierarchical time series](https://robjhyndman.com/papers/Hierarchical6.pdf):  bottom-up and optimal combination methods
@@ -44,11 +45,18 @@ similarity/distance measures, clustering algorithms, r tutorial
 
 - [ ] [Forecasting Method for Grouped Time Series with the Use of k-Means Algorithm](https://arxiv.org/pdf/1509.04705.pdf)
 
+- [ ] [Forecasting of Time Series’ Groups with Application of Fuzzy c-Mean Algorithm](http://www.m-hikari.com/ces/ces2015/ces33-36-2015/p/nikulchevCES33-36-2015.pdf)
+
 - [ ] [Time series trend analysis based  on k-means and SVM](http://www.cai.sk/ojs/index.php/cai/article/view/1445/753)
 
 
 - [ ] [Comparing Time-Series Clustering Algorithms in R Using the dtwclust](https://cran.r-project.org/web/packages/dtwclust/vignettes/dtwclust.pdf)
 
+
+- [ ] [Clustering Sequence Data using Hidden Markov Model
+Representation](https://pdfs.semanticscholar.org/8a0d/b6529eeae4408712bd5148dce1e6e2a662f3.pdf)
+
+- [ ] [Modeling Time Series Similarity with Siamese Recurrent Networks](https://arxiv.org/pdf/1603.04713.pdf)
 
 
 
