@@ -9,6 +9,14 @@ In rare event sampling, they are also used for generating samples that gradually
 
 - [ ] [MCMC for hierarchical models  or “an entire MCMC course in 90 minutes”](http://www.math.chalmers.se/~bodavid/GMRF2015/Lectures/F6slides.pdf)
 
+- [ ] [Some Examples of
+(Markov Chain) Monte Carlo Methods](http://www.bytemining.com/wp-content/uploads/2010/04/notes_dis1.pdf):
+bootstrap
+
+- [ ] [MCMC sampling for dummies](https://twiecki.github.io/blog/2015/11/10/mcmc-sampling/): in python
+
+- [ ] [Markov Chain Monte Carlo Without all the Bullshit](https://jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
+
 
 - [ ] [An Introduction to MCMC for Machine Learning](https://link.springer.com/content/pdf/10.1023%2FA%3A1020281327116.pdf)
 
@@ -21,6 +29,14 @@ In rare event sampling, they are also used for generating samples that gradually
 with SAS/STAT software
 
 
+- [ ] [ Markov Chain Monte Carlo (MCMC)](http://www.cs.cmu.edu/~epxing/Class/10708-16/note/10708_scribe_lecture16.pdf)
+
+
+- [ ] [A simple introduction to Markov Chain Monte–Carlo sampling](https://link.springer.com/article/10.3758/s13423-016-1015-8)
+
+- [ ] [Bayesian Computation: Posterior Sampling & MCMC](http://astrostatistics.psu.edu/su14/lectures/CosPop14-2-2-BayesComp-2.pdf)
+
+- [ ] [AN INTRODUCTION TO MCMC SAMPLING METHODS](https://www.statistics.com/papers/LESSON1_Notes_MCMC.pdf)
 
 
 MCMC code:
