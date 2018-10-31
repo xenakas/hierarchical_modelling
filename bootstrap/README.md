@@ -61,6 +61,8 @@ Bootstrap for small samples:
 - [ ] [A First Look on Smaller Sized Samples for Bootstrap Derived Patterns of Profile Analysis via Multidimensional Scaling](http://ibmi.mf.uni-lj.si/mz/2013/no-1/Bratkovic2013.pdf)
 
 
+- [ ] [Bootstrap algorithms for small samples](https://www.researchgate.net/publication/256590465_Bootstrap_algorithms_for_small_samples)
+
 R package:
 
 
