@@ -8,6 +8,11 @@ Dynamic Component Grouping](https://mpra.ub.uni-muenchen.de/81585/1/MPRA_paper_8
 ](https://onlinelibrary.wiley.com/doi/pdf/10.1002/for.800)
 
 
+
+- [ ] [Forecasting Short Time Series
+with the Bayesian Autoregression
+and the Soft Computing Prior Information](https://link.springer.com/chapter/10.1007/978-3-319-10765-3_10)
+
 - [ ] [MCMC in 60 minutes](http://www.math.chalmers.se/~bodavid/GMRF2015/Lectures/F6slides.pdf)
 
 
