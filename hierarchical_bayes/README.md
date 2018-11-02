@@ -1,8 +1,13 @@
 # Hierarchical Bayesian Modelling
 
+
+
 - [ ] [Multilevel (Hierarchical) Modeling: What It Can and Cannot Do](http://www.stat.columbia.edu/~gelman/research/published/multi2.pdf)
 
 - [ ] [Forecasting output growth rates and median output growth rates: a hierarchical Bayesian approach](https://onlinelibrary.wiley.com/doi/pdf/10.1002/for.800)
+
+
+- [ ] [HIERARCHICAL BAYESIAN TIME SERIES MODELS](https://pdfs.semanticscholar.org/73ae/e06d045f3a95cf598b6208b46362fb006e95.pdf?_ga=2.48066341.304278015.1541139922-1392297038.1541139922)
 
 - [ ] [Hierarchical models ](https://www.ics.uci.edu/~sternh/courses/225/slides2new.pdf): motivation
 James-Stein inference 
@@ -50,6 +55,10 @@ Pooling in Multilevel (Hierarchical) Models](http://www.stat.columbia.edu/~gelma
 
 - [ ] [Summarizing explained variance and partial pooling](https://web.as.uky.edu/statistics/users/pbreheny/701/S13/notes/4-18.pdf)
 
+
+
+- [ ] [Bayesian Hierarchical Models](https://static1.squarespace.com/static/53dc912de4b05be42a8acc61/t/53ddc610e4b0e8a580e87e6e/1407043088020/BayesRnD72514.pdf)
+
 Offtop:
 
 
@@ -88,4 +97,12 @@ for the differential equation underlying the diffusion process.
 - [ ] [The Use of Sampling Weights in Bayesian Hierarchical Models for Small Area Estimation](https://www.stat.washington.edu/sites/default/files/files/reports/2011/tr583.pdf)
 
 
+- [ ] [Joint Segmentation of Multivariate Astronomical
+Time Series: Bayesian Sampling With a
+Hierarchical Model](https://ieeexplore.ieee.org/abstract/document/4063542?reload=true)
+
 - [ ] [Application of a Full Hierarchical Bayesian Model in Assessing Streamflow](http://coweeta.uga.edu/publications/10656.pdf) 
+
+
+
+- [ ] [Effective Bayesian Modeling of Groups of Related Count Time Series](https://arxiv.org/pdf/1405.3738.pdf)
