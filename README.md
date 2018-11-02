@@ -61,8 +61,14 @@ Kalman Filter,  Conditionally Independent Hierarchical method,  BVAR.  Time seri
 - [ ] [Resampling Methods for Time Series](http://www-stat.wharton.upenn.edu/~stine/stat910/lectures/13_bootstrap.pdf)
 
 
+- [ ] [Bootstrap and Maximum Entropy Based Small-sample
+Product Lifetime Probability Distribution](https://ac.els-cdn.com/S2405896315003237/1-s2.0-S2405896315003237-main.pdf?_tid=8d1881b9-60f4-4175-8ee8-45b9fde1c368&acdnat=1541141244_8e2bc14c566774b43b8cd097e653bc11)
+
 
 - [ ] [Discussion: Bootstrap methods for dependent data: A review](http://mapageweb.umontreal.ca/goncals/documents/Goncalves-Politis-2011.pdf)
+
+- [ ] [Bayes or Bootstrap? A Simulation Study Comparing the Performance of Bayesian Markov Chain Monte Carlo Sampling and Bootstrapping](https://academic.oup.com/mbe/article/20/2/255/1003275)
+
 
 #### R Packages: 
 
@@ -109,6 +115,16 @@ also be estimated after a maximum likelihood. While global shrinkage modifies
 all regression coefficients by the same factor, parameterwise shrinkage factors
 differ between regression coefficients. 
 
+
+- [boot](https://cran.r-project.org/web/packages/boot/boot.pdf): Calculate equi-tailed 
+two-sided nonparametric approximate bootstrap confidence intervals for a parameter,
+given a set of data and an estimator of the parameter, using numerical differentiation.
+
+- [meboot](https://cran.r-project.org/web/packages/meboot/meboot.pdf): Maximum entropy density based dependent data bootstrap.
+An algorithm is provided to create a population of time series (ensemble)
+without assuming stationarity. The reference paper (Vinod, H.D., 2004) explains
+how the algorithm satisfies the ergodic theorem and the central limit theorem.[Maximum Entropy Bootstrap for Time Series](https://cran.r-project.org/web/packages/meboot/vignettes/meboot.pdf)
+
 - [entropy](https://cran.r-project.org/web/packages/entropy/entropy.pdf): This package implements various estimators of entropy, such
 as the shrinkage estimator by Hausser and Strimmer, the maximum likelihood
 and the Millow-Madow estimator, various Bayesian estimators, and the
@@ -116,10 +132,6 @@ Chao-Shen estimator. It also offers an R interface to the NSB estimator.
 Furthermore, it provides functions for estimating Kullback-Leibler divergence,
 chi-squared, mutual information, and chi-squared statistic of independence.
 In addition there are functions for discretizing continuous random variables.
-
-- [boot](https://cran.r-project.org/web/packages/boot/boot.pdf): Calculate equi-tailed 
-two-sided nonparametric approximate bootstrap confidence intervals for a parameter,
-given a set of data and an estimator of the parameter, using numerical differentiation.
 
 - [VLMC](https://cran.r-project.org/web/packages/VLMC/VLMC.pdf):  Functions, Classes & Methods for estimation, prediction, and
 simulation (bootstrap) of Variable Length Markov Chain ('VLMC') Models. [Dendograms](https://rdrr.io/cran/VLMC/man/as.dendrogram.vlmc.html)
@@ -132,6 +144,10 @@ for a range of clustering solutions and plotting clusters of state sequences.
 
 - [MLwiN](https://cran.r-project.org/web/packages/R2MLwiN/R2MLwiN.pdf): [Resources for using MLwiN](http://www.bristol.ac.uk/cmm/software/mlwin/mlwin-resources.html#mlmbkgrd), [r-bloggers tutorial](https://www.r-bloggers.com/working-with-r2mlwin-part-1/)
 
+- [bayesGDS](https://cran.r-project.org/web/packages/bayesGDS/bayesGDS.pdf): Functions for implementing the [Braun and Damien (2015) rejection
+sampling algorithm](https://www.researchgate.net/publication/260003754_Scalable_Rejection_Sampling_for_Bayesian_Hierarchical_Models) for Bayesian hierarchical models. The algorithm generates
+posterior samples in parallel, and is scalable when the individual units are
+conditionally independent. [Estimating Bayesian Hierarchical Models using bayesGDS](https://cran.r-project.org/web/packages/bayesGDS/vignettes/bayesGDS.pdf)
 
 #### Python Packages: 
 
@@ -192,7 +208,15 @@ for a range of clustering solutions and plotting clusters of state sequences.
 
 #### Offtop: 
 
+- [ ] [A review of threshold time series models in
+finance](http://intlpress.com/site/pub/files/_fulltext/journals/sii/2011/0004/0002/SII-2011-0004-0002-a012.pdf): TARMAX, RJMCMC
+
+
+
 - [ ] [A large Bayesian vector autoregression model for Russia ](http://www.cbr.ru/content/document/file/16690/wps_1_e.pdf)
+
+- [ ] [NUMERICAL METHODS FOR ESTIMATION AND
+INFERENCE IN BAYESIAN VAR-MODELS](https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1099-1255(199703)12:2<99::AID-JAE429>3.0.CO;2-A)
 
 - [ ] [Statistical Shrinkage](https://eranraviv.com/shrinkage-in-statistics/)
 
