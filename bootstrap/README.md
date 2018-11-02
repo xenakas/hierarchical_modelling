@@ -3,8 +3,10 @@
 
 Bootstrap:
 
+- [ ] [Bootstrap Methods for Time Series](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-5823.2003.tb00485.x)
+
 - [ ] [Time-series Bootstraps
- in pyton](https://arch.readthedocs.io/en/latest/bootstrap/timeseries-bootstraps.html)
+ in python](https://arch.readthedocs.io/en/latest/bootstrap/timeseries-bootstraps.html)
 
 - [ ] [R, Parametric, Maximum Entropy bootstrap](http://www.quantdevel.com/public/CSP2015/Talk/BootstrappingTimeSeriesData.pdf) 
 
@@ -44,7 +46,84 @@ Bootstrap:
 - [ ] [The Impact of Bootstrap Methods on Time Series Analysis](http://www.math.ucsd.edu/~politis/StatSci03.pdf)
 
 
+- [ ] [Recent developments in bootstrapping time series](https://www.tandfonline.com/doi/abs/10.1080/07474930008800457?journalCode=lecr20)
 
+
+- [ ] [Bagging and the Bayesian Bootstrap](https://dukespace.lib.duke.edu/dspace/bitstream/handle/10161/11773/clyde129.pdf?sequence=1)
+
+
+ME bootstrap:
+
+- [ ] meboot
+
+- [ ] [Maximum Entropy Bootstrap
+Approach](https://core.ac.uk/download/pdf/82796251.pdf)
+
+
+- [ ] [Bootstrap and Maximum Entropy Based Small-sample
+Product Lifetime Probability Distribution](https://ac.els-cdn.com/S2405896315003237/1-s2.0-S2405896315003237-main.pdf?_tid=8d1881b9-60f4-4175-8ee8-45b9fde1c368&acdnat=1541141244_8e2bc14c566774b43b8cd097e653bc11)
+
+Parametric Bootstrap:
+
+- [ ] [BAYESIAN INFERENCE AND THE PARAMETRIC BOOTSTRAP](https://arxiv.org/pdf/1301.2936.pdf)
+
+- [ ] [Bayesian Inference and
+the Parametric Bootstrap](http://statweb.stanford.edu/~ckirby/brad/papers/2011BootstrapMCMC.pdf)
+
+Seive Bootstrap:
+
+- [ ] [Forecasting time series with sieve bootstrap](http://halweb.uc3m.es/esp/Personal/personas/dpena/publications/ingles/2002JSPI_alonso_romo.pdf)
+
+- [ ] Original: [Sieve bootstrap for time series](https://projecteuclid.org/download/pdf_1/euclid.bj/1177526726)
+
+
+- [ ] [ON THE RANGE OF VALIDITY OF THE AUTOREGRESSIVE
+SIEVE BOOTSTRAP](https://arxiv.org/pdf/1201.6211.pdf)
+
+
+- [ ] [Sieve Bootstrap With Variable-Length Markov
+Chains for Stationary Categorical Time Series](https://www.tandfonline.com/doi/pdf/10.1198/016214502760046998): vlmc in  r 
+
+
+- [ ] [U sing the Sieve Bootstrap Method
+in Time Series Analysis ](https://link.springer.com/chapter/10.1007/978-3-642-58300-1_28)
+
+- [ ] [A Sieve Bootstrap
+for the Test of a Unit Root](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.235&rep=rep1&type=pdf)
+
+
+- [ ] [Sieve Bootstrap for Functional Time
+Series](https://arxiv.org/pdf/1609.06029.pdf)
+
+
+Bootstrap for TS:
+
+- [ ] [Project Report on Resampling in Time Series Models](http://www2.stat.duke.edu/~ab216/report.pdf)
+
+
+- [ ] [Bootstrap Methods for Time Series](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-5823.2003.tb00485.x)
+
+
+Bootstrap for ARMA:
+
+
+- [ ] [A Bootstrap Simulation Study in
+ARMA (p, 9) Structures](https://doi.org/10.1002/(SICI)1099-131X(199607)15:4%3C343::AID-FOR613%3E3.0.CO;2-2)
+
+- [ ] [Bootstrap Order Determination for ARMA Models: A Comparison between Different Model Selection Criteria](https://www.hindawi.com/journals/jps/2017/1235979/)
+
+- [ ] [Bootstrap prediction interval for ARMA models with
+unknown orders](https://www.ine.pt/revstat/pdf/BootstrappredictionintervalforARMAmodelswithunknownorders.pdf)
+
+- [ ] [Bootstrap-based ARMA order selection](https://www.tandfonline.com/doi/abs/10.1080/00949650903484166?journalCode=gscs20)
+
+- [ ] [Bootstrap for order identification in ARMA(P,Q) structures](http://www.ijmp.jor.br/index.php/ijmp/article/view/244)
+
+
+- [ ] [New Bootstrap Method for Autoregressive Models](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.821.3329&rep=rep1&type=pdf)
+
+- [ ] [Bootstrapping Autoregressive Processes with Possible
+Unit Roots](https://pdfs.semanticscholar.org/03cd/fe24208bdbe2a99569b95a121cab402dafe5.pdf)
 
 Bootstrap for small samples:
 
@@ -59,6 +138,35 @@ Bootstrap for small samples:
 - [ ] [How to Handle Small Samples: Bootstrap and Bayesian Methods in the Analysis of Linguistic Change](https://academic.oup.com/dsh/article-abstract/22/2/137/940094?redirectedFrom=fulltext)
 
 
+
+Maximum Entropy:
+
+- [ ] [Maximum Entropy, Time Series and
+Statistical Inference](https://arxiv.org/pdf/0709.1504.pdf): criticism
+
+This allows the elements of a time series, no matter how
+few in number, to be included and hence influence the resulting distribution. This method
+has several advantages, most notably that the elements of the time series can be put into
+the computation without difficulty and without complication whether the series is short or
+long
+
+That is, for a short series, a small
+number of new data points may make a considerable change in the numerical values of the pi;
+this is in contrast with the traditional ME approach, but perhaps is a more realistic property
+of statistical inference
+
+- [ ] [MAXIMUM ENTROPY METHOD: SAMPLING BIAS ](https://arxiv.org/pdf/1507.04783.pdf)
+
+- [ ] [PROBABILITY DISTRIBUTIONS AND MAXIMUM ENTROPY](http://www.math.uconn.edu/~kconrad/blurbs/analysis/entropypost.pdf)
+
+- [ ] [Maximum Entropy Approximation of Small Sample
+Distributions](https://pdfs.semanticscholar.org/929d/859e3aa29247811ba236bcc6085a7fc4dbf6.pdf)
+
+- [ ] [Maximum entropy spectral analysis of climatic time series revisited](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/2005JD006293)
+
+- [ ] [Estimation of Volatility on the Small Sample with Generalized Maximum Entropy](https://link.springer.com/chapter/10.1007/978-3-319-75429-1_27)
+
+- [ ] [Maximum entropy analysis of short time‐series biomedical rhythms](https://www.researchgate.net/publication/233156515_Maximum_entropy_analysis_of_short_time-series_biomedical_rhythms)
 
 
 Small sample:
@@ -106,6 +214,7 @@ long reads:
 
 - [ ] [Bayesian Forecasting Methods for Short Time Series ](http://allman.rhon.itam.mx/~mendoza/Foresight.pdf)
 
+
 multilevel sample size: 
 
 - [ ] [https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12001](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12001)
@@ -123,8 +232,6 @@ multilevel sample size:
 R package:
 
 
-
-
 - [boot](https://cran.r-project.org/web/packages/boot/boot.pdf): Calculate equi-tailed 
 two-sided nonparametric approximate bootstrap confidence intervals for a parameter,
 given a set of data and an estimator of the parameter, using numerical differentiation.
@@ -140,6 +247,7 @@ simulation (bootstrap) of Variable Length Markov Chain ('VLMC') Models. [Dendogr
 
 Offtop:
 
+- [ ] [Scalable Rejection Sampling for Bayesian Hierarchical Models](https://pubsonline.informs.org/doi/10.1287/mksc.2014.0901)
 
 
 
