@@ -38,6 +38,13 @@ with SAS/STAT software
 
 - [ ] [AN INTRODUCTION TO MCMC SAMPLING METHODS](https://www.statistics.com/papers/LESSON1_Notes_MCMC.pdf)
 
+- [ ] [Bootstrap Markov chain Monte Carlo](https://arxiv.org/pdf/1008.1596.pdf)
+
+
+
+- [ ] [Markov Chain Monte Carlo
+Methods for Bayesian Data
+Analysis in Astronomy](https://arxiv.org/pdf/1706.01629.pdf)
 
 MCMC code:
 
