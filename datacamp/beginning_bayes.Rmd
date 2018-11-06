@@ -1,0 +1,67 @@
+---
+title: "beginning_bayes"
+output: html_document
+---
+
+
+## Beginning Bayes in R
+
+### Introduction to Bayesian thinking
+
+```{r message=FALSE, warning=FALSE}
+library(TeachBayes)
+```
+
+
+```{r}
+areas <- c(2,1,2,1,2)
+spinner_plot(areas)
+```
+```{r}
+spinner_probs(areas)
+```
+
+```{r}
+df = data.frame(Region = 1:5, areas, Probability = areas/sum(areas))
+
+df
+```
+```{r}
+spins = spinner_data(areas, 1000)
+
+bar_plot(spins)
+```
+
+```{r}
+S = summarise(group_by(data.frame(Region=spins),Region), N=n())
+S
+```
+
+Construct frequency table of spins:
+
+```{r}
+table(spins)
+```
+
+Find fraction of spins equal to 2:
+
+```{r}
+mean(spins==2 )
+```
+
+```{r}
+bayes_df = data.frame(Model=paste("Spinner", c("A","B","C","D"))) 
+
+bayes_df$Prior = rep(0.25,4)
+
+bayes_df$Likelihood = round(c(1/3,1/2,1/4,1/6),2)
+
+bayes_df = bayesian_crank(bayes_df)
+
+bayes_df
+```
+
+```{r}
+prior_post_plot(bayes_df)
+```
+
