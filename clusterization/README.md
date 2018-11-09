@@ -11,7 +11,72 @@ Ghaseminezhad  presented a novel SOM-based algorithm that can automatically clus
 discrete groups of data using an unsupervised method. 
 Hidden Markov model (HMM) is a common model based algorithm adopted in time series clustering.
 
+## Shortreads:
 
+
+- [ ] [Voting in Clustering and Finding the Number of Clusters](http://epub.wu.ac.at/684/1/document.pdf)
+
+
+- [ ] [WACA: A Hierarchical Weighted Clustering Algorithm optimized for Mobile Hybrid Networks](https://arxiv.org/pdf/0706.1080.pdf)
+
+
+- [ ] [Clustering Sequence Data using Hidden Markov Model
+Representation](https://pdfs.semanticscholar.org/8a0d/b6529eeae4408712bd5148dce1e6e2a662f3.pdf)
+
+
+
+- [ ] [Modeling Time Series Similarity with Siamese Recurrent Networks](https://arxiv.org/pdf/1603.04713.pdf)
+
+
+
+- [ ] Time Series Clustering of Free-To-Play Game Data:  [Distance measures](https://arxiv.org/pdf/1710.02268.pdf) 
+
+
+
+- [ ] [An unsupervised conditional random fields approach for clustering gene expression time series](https://pdfs.semanticscholar.org/df3b/de558808516ce834189ba50004f85a86e815.pdf)
+
+
+- [ ] [Clustering Time Series Data: An Evolutionary
+Approach ](https://pdfs.semanticscholar.org/2c61/7a569a96fb3f34f182e18202d383f22d060b.pdf)
+
+
+
+### Examples:
+
+
+- [ ] [Time Series Clustering/Classification](http://www.stat.unc.edu/faculty/pipiras/timeseries/Multivariate_6_-_Classification_Clustering_-_Menu.html#what_is_this_all_about)
+similarity/distance measures, clustering algorithms, r tutorial
+
+
+- [ ] [Time Series Classification and Clustering with Python](http://alexminnaar.com/time-series-classification-and-clustering-with-python.html)
+
+
+
+- [ ] [Hierarchical Clustering in R](https://www.datacamp.com/community/tutorials/hierarchical-clustering-R)
+
+
+
+- [ ] [R examples](http://www.rdatamining.com/examples/hierarchical-clustering)
+
+
+- [ ] [Forecast Combination in R (geomcomb)](http://www.ceweiss.com/geomcomb-forecast-combination-in-r/)
+
+
+
+- [ ] [Comparing Time-Series Clustering Algorithms in R Using the dtwclust](https://cran.r-project.org/web/packages/dtwclust/vignettes/dtwclust.pdf)
+
+
+### Slides:
+
+
+
+- [ ] [Weighted clustering](http://www.cs.fsu.edu/~ackerman/CIS5930/notes/Weighted%20clustering.pdf)
+
+
+
+
+
+## Longreads:
 
 - [ ] [Time-series clustering – Decade overview](https://www.sciencedirect.com/science/article/abs/pii/S0306437915000733) 
 
@@ -21,50 +86,13 @@ Hidden Markov model (HMM) is a common model based algorithm adopted in time seri
 - [ ] [Optimal combination forecasts for hierarchical time series](https://robjhyndman.com/papers/Hierarchical6.pdf):  bottom-up and optimal combination methods
 
 
-
-- [ ] [Time Series Clustering/Classification](http://www.stat.unc.edu/faculty/pipiras/timeseries/Multivariate_6_-_Classification_Clustering_-_Menu.html#what_is_this_all_about)
-similarity/distance measures, clustering algorithms, r tutorial
-
-
-- [ ] [Voting in Clustering and Finding the Number of Clusters](http://epub.wu.ac.at/684/1/document.pdf)
-
-
-
-
-
-
-- [ ] [R examples](http://www.rdatamining.com/examples/hierarchical-clustering)
-
-- [ ] [Hierarchical Clustering in R](https://www.datacamp.com/community/tutorials/hierarchical-clustering-R)
-
-- [ ] [Forecast Combination in R (geomcomb)](http://www.ceweiss.com/geomcomb-forecast-combination-in-r/)
-
-
-- [ ] [Time Series Classification and Clustering with Python](http://alexminnaar.com/time-series-classification-and-clustering-with-python.html)
-
-- [ ] [WACA: A Hierarchical Weighted Clustering Algorithm optimized for Mobile Hybrid Networks](https://arxiv.org/pdf/0706.1080.pdf)
-
-
-- [ ] [Weighted clustering](http://www.cs.fsu.edu/~ackerman/CIS5930/notes/Weighted%20clustering.pdf)
-
 - [ ] [Forecasting Method for Grouped Time Series with the Use of k-Means Algorithm](https://arxiv.org/pdf/1509.04705.pdf)
 
 - [ ] [Forecasting of Time Series’ Groups with Application of Fuzzy c-Mean Algorithm](http://www.m-hikari.com/ces/ces2015/ces33-36-2015/p/nikulchevCES33-36-2015.pdf)
 
+
 - [ ] [Time series trend analysis based  on k-means and SVM](http://www.cai.sk/ojs/index.php/cai/article/view/1445/753)
 
-
-- [ ] [Comparing Time-Series Clustering Algorithms in R Using the dtwclust](https://cran.r-project.org/web/packages/dtwclust/vignettes/dtwclust.pdf)
-
-
-- [ ] [Clustering Sequence Data using Hidden Markov Model
-Representation](https://pdfs.semanticscholar.org/8a0d/b6529eeae4408712bd5148dce1e6e2a662f3.pdf)
-
-- [ ] [Modeling Time Series Similarity with Siamese Recurrent Networks](https://arxiv.org/pdf/1603.04713.pdf)
-
-
-
-- [ ] Time Series Clustering of Free-To-Play Game Data:  [Distance measures](https://arxiv.org/pdf/1710.02268.pdf) 
 
 
 - [ ] [Time series clustering](https://beta.vu.nl/nl/Images/stageverslag-roelofsen_tcm235-882304.pdf) - step by step research 
@@ -99,10 +127,6 @@ any known model for the data; we do not even require independence between the sa
 
 
 
-- [ ] [An unsupervised conditional random fields approach for clustering gene expression time series](https://pdfs.semanticscholar.org/df3b/de558808516ce834189ba50004f85a86e815.pdf)
-
-- [ ] [Clustering Time Series Data: An Evolutionary
-Approach ](https://pdfs.semanticscholar.org/2c61/7a569a96fb3f34f182e18202d383f22d060b.pdf)
  
 - [ ] [Time Series Clustering in the
 Field of Agronomy](https://team.inria.fr/zenith/files/2013/11/ia_ma_thesis_final.pdf)
