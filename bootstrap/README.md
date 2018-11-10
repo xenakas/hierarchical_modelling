@@ -32,10 +32,11 @@ simulation (bootstrap) of Variable Length Markov Chain ('VLMC') Models. [Dendogr
 
 - [ ] [tsboot in R example](https://stat.ethz.ch/R-manual/R-devel/library/boot/html/tsboot.html)
 
+- [ ] [Block bootstrapping time series data](https://www.packtpub.com/mapt/book/big_data_and_business_intelligence/9781785282287/6/ch06lvl1sec88/block-bootstrapping-time-series-data)
 
 - [ ] [Bootstrapping time series – R code](https://eranraviv.com/bootstrapping-time-series-r-code/)
 
-
+- [ ] [](http://rosetta.ahmedmoustafa.io/bootstrap/)
 
 - [ ] [Quick-R boot tutorial](https://www.statmethods.net/advstats/bootstrapping.html)
 
