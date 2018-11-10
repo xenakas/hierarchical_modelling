@@ -72,7 +72,7 @@ Pooling in Multilevel (Hierarchical) Models](http://www.stat.columbia.edu/~gelma
 ## Offtop:
 
 
-- [ ] [Hierarchical (multilevel) models for survey data](https://sites.fas.harvard.edu/~stats/survey-soft/hierarchical.html)
+- [ ] [Scalable Rejection Sampling for Bayesian Hierarchical Models](https://pubsonline.informs.org/doi/10.1287/mksc.2014.0901)
 
 
 - [ ] [Hierarchical Partial Pooling for Repeated Binary Trials](https://cran.r-project.org/web/packages/rstanarm/vignettes/pooling.html)
@@ -89,33 +89,12 @@ Pooling in Multilevel (Hierarchical) Models](http://www.stat.columbia.edu/~gelma
 - [ ] Spatial Bayes; R package ([Page 29](http://web2.uconn.edu/cyberinfra/module3/Downloads/Day%206%20-%20Hierarchical%20Bayes.pdf))
 
 
-- [ ] [Multivariate Hierarchical Bayesian space-time models in economics](https://pdfs.semanticscholar.org/6b32/a25f92d88656803be25202c673cfc27347ce.pdf)
-
-
-
-- [ ] [https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/1998WR900043](https://agupubs.onlinelibrary.wiley.com/doi/pdf/10.1029/1998WR900043)
-
-
-- [ ] [Hierarchical Models](http://genomicsclass.github.io/book/pages/hierarchical_models.html)
-
-
-- [ ] [Forecasting cross-population innovation diffusion: A Bayesian approach](https://www.sciencedirect.com/science/article/abs/pii/S0167811605000315):
-A limitation of the proposed HB method is that it requires an analytical solution 
-for the differential equation underlying the diffusion process. 
-
-
-- [ ] [UNCERTAINTY AND VARIABILITY IN DEMOGRAPHY AND POPULATION GROWTH: A HIERARCHICAL APPROACH](https://esajournals.onlinelibrary.wiley.com/doi/abs/10.1890/0012-9658(2003)084%5B1370:UAVIDA%5D2.0.CO%3B2)
-
-
-- [ ] [The Use of Sampling Weights in Bayesian Hierarchical Models for Small Area Estimation](https://www.stat.washington.edu/sites/default/files/files/reports/2011/tr583.pdf)
-
 
 - [ ] [Joint Segmentation of Multivariate Astronomical
 Time Series: Bayesian Sampling With a
 Hierarchical Model](https://ieeexplore.ieee.org/abstract/document/4063542?reload=true)
 
-- [ ] [Application of a Full Hierarchical Bayesian Model in Assessing Streamflow](http://coweeta.uga.edu/publications/10656.pdf) 
 
 
 
-- [ ] [Effective Bayesian Modeling of Groups of Related Count Time Series](https://arxiv.org/pdf/1405.3738.pdf)
+
