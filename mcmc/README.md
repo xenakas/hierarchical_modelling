@@ -4,6 +4,9 @@ In Bayesian statistics, the recent development of Markov chain Monte Carlo metho
 
 In rare event sampling, they are also used for generating samples that gradually populate the rare failure region.
 
+Beautiful visualization [here](http://chi-feng.github.io/mcmc-demo/)
+
+
 #### Syllabus:
 
 1. Introduction: Bayesian statistics, Markov chains. 
