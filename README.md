@@ -1,4 +1,36 @@
-# hierarchical_modelling
+# Hierarchical modelling
+
+## Slides:
+
+- [ ] [MCMC in 60 minutes](http://www.math.chalmers.se/~bodavid/GMRF2015/Lectures/F6slides.pdf)
+
+- [ ] [Introduction to recursive Bayesian filtering](https://people.csail.mit.edu/mrub/talks/filtering.pdf)
+
+- [ ] [From Bayes to Extended Kalman Filter](http://people.ciirc.cvut.cz/~hlavac/TeachPresEn/55AutonomRobotics/2015-05-04ReinsteinBayes-ekf.pdf)
+
+
+
+## Examples:
+
+
+- [ ] [Time Series Clustering/Classification](http://www.stat.unc.edu/faculty/pipiras/timeseries/Multivariate_6_-_Classification_Clustering_-_Menu.html#what_is_this_all_about)
+similarity/distance measures, clustering algorithms, r tutorial
+
+
+- [ ] [R examples](http://www.rdatamining.com/examples/hierarchical-clustering)
+
+- [ ] [Statistical Shrinkage](https://eranraviv.com/shrinkage-in-statistics/)
+
+
+## Shortreads:
+
+- [ ] [Resampling Methods for Time Series](http://www-stat.wharton.upenn.edu/~stine/stat910/lectures/13_bootstrap.pdf)
+
+- [ ] [Discussion: Bootstrap methods for dependent data: A review](http://mapageweb.umontreal.ca/goncals/documents/Goncalves-Politis-2011.pdf)
+
+
+
+## Longreads:
 
 - [ ] [Forecasting Economic Aggregates Using
 Dynamic Component Grouping](https://mpra.ub.uni-muenchen.de/81585/1/MPRA_paper_81585.pdf)
@@ -13,19 +45,12 @@ Dynamic Component Grouping](https://mpra.ub.uni-muenchen.de/81585/1/MPRA_paper_8
 with the Bayesian Autoregression
 and the Soft Computing Prior Information](https://link.springer.com/chapter/10.1007/978-3-319-10765-3_10)
 
-- [ ] [MCMC in 60 minutes](http://www.math.chalmers.se/~bodavid/GMRF2015/Lectures/F6slides.pdf)
-
-
-
-
-- [ ] [R examples](http://www.rdatamining.com/examples/hierarchical-clustering)
 
 
 
 
 
-- [ ] [Time Series Clustering/Classification](http://www.stat.unc.edu/faculty/pipiras/timeseries/Multivariate_6_-_Classification_Clustering_-_Menu.html#what_is_this_all_about)
-similarity/distance measures, clustering algorithms, r tutorial
+
 
 
 
@@ -58,14 +83,12 @@ Kalman Filter,  Conditionally Independent Hierarchical method,  BVAR.  Time seri
 - [ ] [Forecasting Method for Grouped Time Series with the Use of k-Means Algorithm](https://arxiv.org/pdf/1509.04705.pdf)
 
 
-- [ ] [Resampling Methods for Time Series](http://www-stat.wharton.upenn.edu/~stine/stat910/lectures/13_bootstrap.pdf)
 
 
 - [ ] [Bootstrap and Maximum Entropy Based Small-sample
 Product Lifetime Probability Distribution](https://ac.els-cdn.com/S2405896315003237/1-s2.0-S2405896315003237-main.pdf?_tid=8d1881b9-60f4-4175-8ee8-45b9fde1c368&acdnat=1541141244_8e2bc14c566774b43b8cd097e653bc11)
 
 
-- [ ] [Discussion: Bootstrap methods for dependent data: A review](http://mapageweb.umontreal.ca/goncals/documents/Goncalves-Politis-2011.pdf)
 
 - [ ] [Bayes or Bootstrap? A Simulation Study Comparing the Performance of Bayesian Markov Chain Monte Carlo Sampling and Bootstrapping](https://academic.oup.com/mbe/article/20/2/255/1003275)
 
@@ -211,8 +234,6 @@ conditionally independent. [Estimating Bayesian Hierarchical Models using bayesG
 
 #### Offtop: 
 
-- [ ] [A review of threshold time series models in
-finance](http://intlpress.com/site/pub/files/_fulltext/journals/sii/2011/0004/0002/SII-2011-0004-0002-a012.pdf): TARMAX, RJMCMC
 
 
 
@@ -221,12 +242,9 @@ finance](http://intlpress.com/site/pub/files/_fulltext/journals/sii/2011/0004/00
 - [ ] [NUMERICAL METHODS FOR ESTIMATION AND
 INFERENCE IN BAYESIAN VAR-MODELS](https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1099-1255(199703)12:2<99::AID-JAE429>3.0.CO;2-A)
 
-- [ ] [Statistical Shrinkage](https://eranraviv.com/shrinkage-in-statistics/)
-
-- [ ] [Introduction to recursive Bayesian filtering](https://people.csail.mit.edu/mrub/talks/filtering.pdf)
 
 
-- [ ] [From Bayes to Extended Kalman Filter](http://people.ciirc.cvut.cz/~hlavac/TeachPresEn/55AutonomRobotics/2015-05-04ReinsteinBayes-ekf.pdf)
+
 
 
 
@@ -243,6 +261,10 @@ INFERENCE IN BAYESIAN VAR-MODELS](https://onlinelibrary.wiley.com/doi/abs/10.100
 
 
 - [ ] [Forecasting with Medium and Large Bayesian VARs](http://ecares.ulb.ac.be/ecaresdocuments/seminars1011/koop.pdf)
+
+
+- [ ] [A review of threshold time series models in
+finance](http://intlpress.com/site/pub/files/_fulltext/journals/sii/2011/0004/0002/SII-2011-0004-0002-a012.pdf): TARMAX, RJMCMC
 
 
 
