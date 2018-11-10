@@ -1,6 +1,15 @@
 # Bayesian methods
 
-Bayesian Pooling, Bayesian shrinkage, Empirical Bayes, and Stein estimation
+Bayesian Pooling, Bayesian shrinkage, Empirical Bayes, and Stein estimation:
+
+
+- [ ] [Bayesian shrinkage](https://arxiv.org/pdf/1212.6088.pdf)
+
+
+- [ ] [Bayesian Inference with R notes](http://pages.stat.wisc.edu/~larget/stat302/bayes.pdf))
+
+
+
 
 - [ ] [Bayesian Forecasting for Seemingly Unrelated Time Series: Application to Local Government Revenue Forecasting](https://www.jstor.org/stable/2632644?seq=1#page_scan_tab_contents):
 Kalman Filter,  Conditionally Independent Hierarchical method,  BVAR.  Time series forecasting of demand for goods or services
@@ -12,13 +21,10 @@ Kalman Filter,  Conditionally Independent Hierarchical method,  BVAR.  Time seri
  1971), revise model parameter estimates over time.
 
 
-
 - [ ] [Forecasting analogous time series](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.519.6011&rep=rep1&type=pdf): Bayesian Pooling, Bayesian shrinkage, BVAR  
 
 - [ ] [Forecasting international growth rates using Bayesian shrinkage and other procedures](https://www.sciencedirect.com/science/article/pii/0304407689900365): autoregressive-leading indicator (ARLI) 
 
-
-- [ ] [Bayesian shrinkage](https://arxiv.org/pdf/1212.6088.pdf)
 
 
 
