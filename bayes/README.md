@@ -6,7 +6,7 @@ Bayesian Pooling, Bayesian shrinkage, Empirical Bayes, and Stein estimation:
 - [ ] [Bayesian shrinkage](https://arxiv.org/pdf/1212.6088.pdf)
 
 
-- [ ] [Bayesian Inference with R notes](http://pages.stat.wisc.edu/~larget/stat302/bayes.pdf))
+- [ ] [Bayesian Inference with R notes](http://pages.stat.wisc.edu/~larget/stat302/bayes.pdf)
 
 
 
