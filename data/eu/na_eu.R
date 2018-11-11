@@ -1,6 +1,3 @@
-
-# install.packages(c("broom", "classInt", "dplyr", "httr", "jsonlite", "RColorBrewer", "readr", "sf", "sp", "stringi", "stringr", "tibble", "tidyr"))
-
 # install.packages("eurostat")
 
 library(eurostat)
@@ -8,9 +5,17 @@ library(lubridate)
 
 ?get_eurostat
 
-dat <- get_eurostat(id="namq_10_a10", time_format="date", type = "label")
+dat <- get_eurostat(id="namq_10_a10", time_format="date")
 
-na_item <- unique(dat$na_item, incomparables = FALSE)
+write.csv(dat, file = "namq_unlabelled.csv")
+
+tablename = label_eurostat_tables("namq_10_a10", lang = "en")
+colname = label_eurostat_vars(dat, lang = "en")
+name = label_eurostat(dat)
+
+write.csv(name, file = "namq_labelled.csv")
+
+na_item <- unique(dat$na_item)
 na_item 
 
 s_adj <- unique(dat$s_adj, incomparables = FALSE)
