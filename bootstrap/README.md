@@ -36,7 +36,7 @@ simulation (bootstrap) of Variable Length Markov Chain ('VLMC') Models. [Dendogr
 
 - [ ] [Bootstrapping time series – R code](https://eranraviv.com/bootstrapping-time-series-r-code/)
 
-- [ ] [](http://rosetta.ahmedmoustafa.io/bootstrap/)
+- [ ] [Bootstrap Shiny App](http://rosetta.ahmedmoustafa.io/bootstrap/)
 
 - [ ] [Quick-R boot tutorial](https://www.statmethods.net/advstats/bootstrapping.html)
 
