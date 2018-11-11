@@ -6,3 +6,5 @@
 [GDP by State](https://www.bea.gov/news/archive?field_related_product_target_id=461&created_1=All&title=): 2016 Q1? [2017 Q4](http://www.publicnow.com/view/1332C5496CEC638D41176F364773861C50E536AC)? 2018 Q2?
 
 FRED in R: [github](https://github.com/sboysel/fredr), [cran](https://cran.r-project.org/web/packages/fredr/fredr.pdf): ``fredr``, [tutorial](http://sboysel.github.io/fredr/articles/fredr.html)
+
+- Real Gross Domestic Product by Industry: Private Industries for Wyoming, 2005-01-01 - 2018-01-01, Quarterly, Millions of Chained 2009 Dollars, Seasonally Adjusted Annual Rate 
