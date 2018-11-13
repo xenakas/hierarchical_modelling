@@ -13,7 +13,11 @@
 
 ### Slides:
 
-- [ ]  Grouped and hierarchical TS ([in matrix form](https://forecasters.org/wp-content/uploads/gravity_forms/7-2a51b93047891f1ec3608bdbd77ca58d/2014/07/Athanasopoulos_George_ISF2014.pdf))
+- [x]  Grouped and hierarchical TS ([in matrix form](https://forecasters.org/wp-content/uploads/gravity_forms/7-2a51b93047891f1ec3608bdbd77ca58d/2014/07/Athanasopoulos_George_ISF2014.pdf))
+
+- [ ] [Optimal combination forecasts
+for hierarchical time series](https://robjhyndman.com/talks/Hierarchical%20ISF2006.pdf) + [article](http://webdoc.sub.gwdg.de/ebook/serien/e/monash_univ/wp9-07.pdf)
+
 
 - [ ] [Three‐Level Models (Part 2): Models for
 Clustered Longitudinal Data](https://jonathantemplin.com/files/mlm/mlm13icpsr/mlm13icpsr_lecture10.pdf)
@@ -22,11 +26,15 @@ Clustered Longitudinal Data](https://jonathantemplin.com/files/mlm/mlm13icpsr/ml
 
 ## Longreads: 
 
+
+
 - [ ] [MULTILEVEL TIME SERIES MODELS
 WITH APPLICATIONS TO REPEATED MEASURES DATA](http://www.bristol.ac.uk/media-library/sites/cmm/migrated/documents/multilevel-time-series.pdf)
 
 - [ ] [Fast computation of reconciled forecasts for hierarchical and grouped time series](https://robjhyndman.com/papers/hgts4.pdf)
 
+- [ ] [Hierarchical forecasts for
+Australian domestic tourism](http://webdoc.sub.gwdg.de/ebook/serien/e/monash_univ/wp12-07.pdf)
 
 - [ ]  [Grouped time-series forecasting with an application to regional infant mortality counts](http://www.cpc.ac.uk/docs/2013_WP40_Grouped_Time-Series_Forecasting_Shang_et_al.pdf): bottom-up and optimal combination methods, a parametric bootstrap method for constructing point-wise prediction intervals,  one-step-ahead to ten-step-ahead point and interval forecast accuracy.
 

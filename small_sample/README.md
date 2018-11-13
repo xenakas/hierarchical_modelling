@@ -14,6 +14,15 @@
 
 ## Shortreads:
 
+- [ ] [The M3-Competition: results, conclusions and implications](https://pdfs.semanticscholar.org/8461/b79f9747a0caee85522c49bd4655c64e10fb.pdf): comparison of forecasting methods (TS: 14 obs for yearly data, 16 for quarterly... ) 
+
+[Example](https://forecasters.org/wp-content/uploads/gravity_forms/7-2a51b93047891f1ec3608bdbd77ca58d/2014/07/Athanasopoulos_George_ISF2014.pdf): In total 3003 series.
+1,428 monthly series with a test sample of
+12 observations each.
+756 quarterly series with a test sample of
+8 observations each. Forecast each series with ETS (ARIMA)
+models. 
+
 - [ ] [When small samples are problematic](http://eiko-fried.com/small-samples-can-be-inherently-problematic/) 
 
 - [ ] [Problems with small sample sizes](https://garstats.wordpress.com/2017/02/04/small-sample-sizes/amp/)
