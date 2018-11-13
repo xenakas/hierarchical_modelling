@@ -64,6 +64,7 @@ the Parametric Bootstrap](http://statweb.stanford.edu/~ckirby/brad/papers/2011Bo
 
 ### Shortreads:
 
+- [ ] [A comparison of four different block bootstrap methods](https://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=197357)
 
 - [ ] [Resampling Methods for Time Series](http://www-stat.wharton.upenn.edu/~stine/stat910/lectures/13_bootstrap.pdf)
 
@@ -72,7 +73,7 @@ the Parametric Bootstrap](http://statweb.stanford.edu/~ckirby/brad/papers/2011Bo
 
 - [ ] [Discussion: Bootstrap methods for dependent data: A review](http://mapageweb.umontreal.ca/goncals/documents/Goncalves-Politis-2011.pdf)
 
-
+- [ ] [USEFULNESS OF BOOTSTRAPPING IN PORTFOLIO MANAGEMENT](https://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=142318)
 
 ### Longreads:
 
@@ -86,6 +87,8 @@ the Parametric Bootstrap](http://statweb.stanford.edu/~ckirby/brad/papers/2011Bo
 - [ ] [Bootstrap of Dependent Data in Finance](http://www.math.chalmers.se/~palbin/BootstrapDependentAndreasSunesson.pdf)
 
 - [ ] [BOOTSTRAPPING FINANCIAL TIME SERIES](https://core.ac.uk/download/pdf/29399877.pdf)
+
+- [ ] [A Monte Carlo study of autoregressive integrated moving average processes](https://www.sciencedirect.com/science/article/pii/S0304407601001324) 
 
 - [ ] [EFFICIENT BOOTSTRAP RESAMPLING FOR DEPENDENT DATA](https://www.tandfonline.com/doi/abs/10.1081/SAC-120003846?journalCode=lssp20)
 

@@ -15,11 +15,15 @@
 
 - [ ]  Grouped and hierarchical TS ([in matrix form](https://forecasters.org/wp-content/uploads/gravity_forms/7-2a51b93047891f1ec3608bdbd77ca58d/2014/07/Athanasopoulos_George_ISF2014.pdf))
 
+- [ ] [Three‐Level Models (Part 2): Models for
+Clustered Longitudinal Data](https://jonathantemplin.com/files/mlm/mlm13icpsr/mlm13icpsr_lecture10.pdf)
 
-
+- [ ] [The 3-Level HLM Model](http://www.statpower.net/Content/MLRM/Lecture%20Slides/HLM3.pdf)
 
 ## Longreads: 
 
+- [ ] [MULTILEVEL TIME SERIES MODELS
+WITH APPLICATIONS TO REPEATED MEASURES DATA](http://www.bristol.ac.uk/media-library/sites/cmm/migrated/documents/multilevel-time-series.pdf)
 
 - [ ] [Fast computation of reconciled forecasts for hierarchical and grouped time series](https://robjhyndman.com/papers/hgts4.pdf)
 
