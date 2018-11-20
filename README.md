@@ -28,7 +28,7 @@ similarity/distance measures, clustering algorithms, r tutorial
 
 - [ ] [Discussion: Bootstrap methods for dependent data: A review](http://mapageweb.umontreal.ca/goncals/documents/Goncalves-Politis-2011.pdf)
 
-
+- [ ] [Constructing a logic of plausible Inference: a guide to Cox's theorem](http://ksvanhorn.com/bayes/Papers/rcox.pdf)
 
 ## Longreads:
 

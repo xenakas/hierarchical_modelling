@@ -3,10 +3,33 @@
 Bayesian Pooling, Bayesian shrinkage, Empirical Bayes, and Stein estimation:
 
 
+### Slides
+
+- [x] [Shrinkage priors](http://www.jarad.me/courses/stat615/slides/Hierarchical/Hierarchical1.pdf)
+
+
+### Shortreads
+
+- [ ] [The Non-parametric Bootstrap as a Bayesian Model](http://www.sumsar.net/blog/2015/04/the-non-parametric-bootstrap-as-a-bayesian-model/)
+
+- [ ] [Bayesian Inference with R notes](http://pages.stat.wisc.edu/~larget/stat302/bayes.pdf)
+
+
+
+### Longreads
+
 - [ ] [Bayesian shrinkage](https://arxiv.org/pdf/1212.6088.pdf)
 
 
-- [ ] [Bayesian Inference with R notes](http://pages.stat.wisc.edu/~larget/stat302/bayes.pdf)
+- [ ] [Hierarchical Shrinkage Priors for Regression Models](https://projecteuclid.org/download/pdfview_1/euclid.ba/1453211963)
+
+- [ ] [Contraction Properties of Shrinkage Priors in Logistic Regression](https://www4.stat.ncsu.edu/~sghosal/papers/Shrinkage%20Logistic.pdf)
+
+
+
+
+- [ ] [Empirical Bayes Confidence Intervals Based on Bootstrap Samples](https://www.jstor.org/stable/2288778?seq=1#metadata_info_tab_contents)
+
 
 
 
