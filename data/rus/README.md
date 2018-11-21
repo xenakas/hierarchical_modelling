@@ -16,3 +16,4 @@ $$ВДС = ВВП -ЧНПиИ$$
 НПИ – налоги на производство и импорт;
 СПИ – субсидии на производство и импорт;
 
+http://akstat.gks.ru/wps/wcm/connect/rosstat_ts/akstat/resources/d794ac804e97e61b9be9bba638e2bbf1/metod.htm

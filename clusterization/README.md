@@ -140,11 +140,11 @@ Clearly, the main difference between this setting and ours is in that we do not 
 any known model for the data; we do not even require independence between the samples.
 
 
+- [ ] [Probabilistic Curve-Aligned Clustering and Prediction with Regression Mixture Models](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.92.1806&rep=rep1&type=pdf)
+
+
 
  
 - [ ] [Time Series Clustering in the
 Field of Agronomy](https://team.inria.fr/zenith/files/2013/11/ia_ma_thesis_final.pdf)
-
-
-
 
