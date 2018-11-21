@@ -20,6 +20,7 @@ Hidden Markov model (HMM) is a common model based algorithm adopted in time seri
 - [ ] [WACA: A Hierarchical Weighted Clustering Algorithm optimized for Mobile Hybrid Networks](https://arxiv.org/pdf/0706.1080.pdf)
 
 
+
 - [ ] [Clustering Sequence Data using Hidden Markov Model
 Representation](https://pdfs.semanticscholar.org/8a0d/b6529eeae4408712bd5148dce1e6e2a662f3.pdf)
 
@@ -44,6 +45,7 @@ Approach ](https://pdfs.semanticscholar.org/2c61/7a569a96fb3f34f182e18202d383f22
 ### Examples:
 
 
+
 - [ ] [Time Series Clustering/Classification](http://www.stat.unc.edu/faculty/pipiras/timeseries/Multivariate_6_-_Classification_Clustering_-_Menu.html#what_is_this_all_about)
 similarity/distance measures, clustering algorithms, r tutorial
 
@@ -66,6 +68,8 @@ similarity/distance measures, clustering algorithms, r tutorial
 - [ ] [Comparing Time-Series Clustering Algorithms in R Using the dtwclust](https://cran.r-project.org/web/packages/dtwclust/vignettes/dtwclust.pdf)
 
 
+- [ ] [hts: An R Package for Forecasting Hierarchical or Grouped Time Series](https://cran.r-project.org/web/packages/hts/vignettes/hts.pdf)
+
 ### Slides:
 
 
@@ -78,9 +82,18 @@ similarity/distance measures, clustering algorithms, r tutorial
 
 ## Longreads:
 
+
+- [ ] CLUSTERING METHODOLOGY FOR TIME SERIES MINING
+
+
 - [ ] [Time-series clustering – Decade overview](https://www.sciencedirect.com/science/article/abs/pii/S0306437915000733) 
 
 - [ ] [Forecasting Economic Aggregates Using Dynamic Component Grouping](https://mpra.ub.uni-muenchen.de/81585/1/MPRA_paper_81585.pdf)
+
+
+- [ ] [A Scalable Method for Time Series Clustering ](https://robjhyndman.com/papers/wang.pdf)
+
+- [ ] [Highly comparative, feature-based time-series classification](https://arxiv.org/pdf/1401.3531v1.pdf)
 
 
 - [ ] [Optimal combination forecasts for hierarchical time series](https://robjhyndman.com/papers/Hierarchical6.pdf):  bottom-up and optimal combination methods
@@ -99,8 +112,9 @@ similarity/distance measures, clustering algorithms, r tutorial
 
 
 
+- [ ] [A Hybrid Algorithm for Clustering of Time Series Data Based on Affinity Search Technique](https://www.hindawi.com/journals/tswj/2014/562194/)
 
-
+- [ ] [Recent Techniques of Clustering of Time Series Data: A Survey](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.258.9630&rep=rep1&type=pdf)
 
 
 - [ ] [Consistent Algorithms for Clustering Time Series](http://www.jmlr.org/papers/volume17/khaleghi16a/khaleghi16a.pdf)
