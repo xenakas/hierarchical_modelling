@@ -2,7 +2,7 @@
 
 1. Data
 
-- [ ] Manipulating DataFrames with pandas (pivoting)
+- [x] Manipulating DataFrames with pandas (pivoting)
 
 2. Grouped TS
 
@@ -33,13 +33,6 @@
 
 - [ ] Foundations of Inference
 
-
-5. MCMC
-
-5. Hierarchical Bayes
-
-7. Small Sample
-
 8. Bootstrap
 
 
@@ -48,9 +41,4 @@
 - [ ] Statistical Thinking in Python (Part 2): [bootstrap intervals](https://campus.datacamp.com/courses/statistical-thinking-in-python-part-2/bootstrap-confidence-intervals?ex=4)
 
 - [ ] Statistical Modeling in R (Part 2): effect size, sampling, bootstrap
-
-
-
-9. Maximum Entropy
-
 

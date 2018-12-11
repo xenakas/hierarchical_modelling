@@ -1,0 +1,11 @@
+---
+title: "hierarchical_and_mixed_effects"
+output: html_document
+---
+
+# Hierarchical and Mixed Effects Models
+
+- Hierarchical models: Nested models, Multi-level models
+- Regression framework: "Pool" information, "Random-effect" versus a "fixed-effect", "Mixed-effect" (linear mixed-effect model; LMM), Linear mixed-effect regression (lmer)
+- Repeated sampling: "Repeated-measures", "Paired-tests"
+
