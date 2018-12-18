@@ -1,18 +1,25 @@
 ### DataCamp:
 
-1. Data
 
-- [x] Manipulating DataFrames with pandas (pivoting)
+Bayes
 
-2. Grouped TS
+- [x] [Beginning Bayes in R](https://campus.datacamp.com/courses/beginning-bayes-in-r/introduction-to-bayesian-thinking?ex=1)
 
+- [ ] Bayesian Modeling with **RJAGS** 
 
-- [ ] Hierarchical and Mixed Effects Models
-
-- [ ] Mixture Models in R
+- [x] Bayesian Regression Modeling with rstanarm
 
 
-3. Clusterization
+Bootstrap
+
+- [ ] Inference for Numerical Data (**Bootstraping**, anova)
+
+- [ ] Statistical Thinking in Python (Part 2): [bootstrap intervals](https://campus.datacamp.com/courses/statistical-thinking-in-python-part-2/bootstrap-confidence-intervals?ex=4)
+
+- [ ] Statistical Modeling in R (Part 2): effect size, sampling, bootstrap
+
+
+Clustering
 
 - [ ] Cluster Analysis in R
 
@@ -23,22 +30,11 @@
 
 - [ ] Machine Learning with Tree-Based Models in Python
 
-4. Bayes
-
-- [ ] [Beginning Bayes in R](https://campus.datacamp.com/courses/beginning-bayes-in-r/introduction-to-bayesian-thinking?ex=1)
-
-- [ ] Bayesian Modeling with **RJAGS** 
-
-- [ ] Bayesian Regression Modeling with rstanarm
-
-- [ ] Foundations of Inference
-
-8. Bootstrap
 
 
-- [ ] Inference for Numerical Data (**Bootstraping**, anova)
 
-- [ ] Statistical Thinking in Python (Part 2): [bootstrap intervals](https://campus.datacamp.com/courses/statistical-thinking-in-python-part-2/bootstrap-confidence-intervals?ex=4)
+Panels 
 
-- [ ] Statistical Modeling in R (Part 2): effect size, sampling, bootstrap
+- [ ] Hierarchical and Mixed Effects Models
 
+- [ ] Mixture Models in R
