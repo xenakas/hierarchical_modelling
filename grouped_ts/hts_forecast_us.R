@@ -5,6 +5,7 @@ data = data[1:51, ]
 View(tail(data))
 
 library(hts)
+  
 
 rownames(data) = as.Date(data[,1])
 rownames(data)

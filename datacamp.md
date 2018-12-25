@@ -5,7 +5,7 @@ Bayes
 
 - [x] [Beginning Bayes in R](https://campus.datacamp.com/courses/beginning-bayes-in-r/introduction-to-bayesian-thinking?ex=1)
 
-- [ ] Bayesian Modeling with **RJAGS** 
+- [x] Bayesian Modeling with **RJAGS** 
 
 - [x] Bayesian Regression Modeling with rstanarm
 
