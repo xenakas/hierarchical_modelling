@@ -14,7 +14,7 @@ Bayesian Pooling, Bayesian shrinkage, Empirical Bayes, and Stein estimation:
 
 - [x] [Bayesian Inference](http://pages.stat.wisc.edu/~larget/stat302/bayes.pdf)
 
-- [ ] [Hierarchical Bayes and Empirical Bayes](https://www2.isye.gatech.edu/~brani/isyebayes/bank/handout8.pdf): James Stein Estimator and its EB Justification
+- [x] [Hierarchical Bayes and Empirical Bayes](https://www2.isye.gatech.edu/~brani/isyebayes/bank/handout8.pdf): James Stein Estimator and its EB Justification
 
 
 ### Longreads
