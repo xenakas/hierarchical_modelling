@@ -10,7 +10,7 @@ Bayesian Pooling, Bayesian shrinkage, Empirical Bayes, and Stein estimation:
 
 ### Shortreads
 
-- [ ] [The Non-parametric Bootstrap as a Bayesian Model](http://www.sumsar.net/blog/2015/04/the-non-parametric-bootstrap-as-a-bayesian-model/)
+- [x] [The Non-parametric Bootstrap as a Bayesian Model](http://www.sumsar.net/blog/2015/04/the-non-parametric-bootstrap-as-a-bayesian-model/)
 
 - [x] [Bayesian Inference](http://pages.stat.wisc.edu/~larget/stat302/bayes.pdf)
 
