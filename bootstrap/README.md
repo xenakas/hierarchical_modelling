@@ -77,6 +77,8 @@ the Parametric Bootstrap](http://statweb.stanford.edu/~ckirby/brad/papers/2011Bo
 
 ### Longreads:
 
+- [ ] [Bootstrap methods: another look at the jackknife](https://projecteuclid.org/download/pdf_1/euclid.aos/1176344552)
+
 - [ ] [Bootstrap Methods for Time Series](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-5823.2003.tb00485.x)
 
 - [ ] [Bootstrap Methods for Time Series](https://www.kevinsheppard.com/images/0/0a/Kreiss_and_lahiri.pdf)
