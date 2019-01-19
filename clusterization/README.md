@@ -77,6 +77,13 @@ similarity/distance measures, clustering algorithms, r tutorial
 - [ ] [Weighted clustering](http://www.cs.fsu.edu/~ackerman/CIS5930/notes/Weighted%20clustering.pdf)
 
 
+### Weighted clustering
+
+- [ ] [Time series forecasting based on weighted clustering](https://ieeexplore.ieee.org/document/8167252)
+
+
+
+- [ ] [Cluster-weighted modelling for time-series analysis](https://www.nature.com/articles/16873)
 
 
 

@@ -55,6 +55,8 @@ bootstrap
 
 - [ ] [MCMC sampling for dummies](https://twiecki.github.io/blog/2015/11/10/mcmc-sampling/): in python
 
+- [ ] [Markov Chain Monte Carlo in Python](https://towardsdatascience.com/markov-chain-monte-carlo-in-python-44f7e609be98)
+
 ## Longreads:
 
 - [ ] [A simple introduction to Markov Chain Monte–Carlo sampling](https://link.springer.com/article/10.3758/s13423-016-1015-8)

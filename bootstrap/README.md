@@ -186,6 +186,8 @@ Product Lifetime Probability Distribution](https://ac.els-cdn.com/S2405896315003
 
 ## Bayesian Bootstrap:
 
+- [ ] [Bayesian Bootstrap by Rubin](https://www.jstor.org/stable/2240875?seq=1#page_scan_tab_contents)
+
 - [ ] [Bagging and the Bayesian Bootstrap](https://dukespace.lib.duke.edu/dspace/bitstream/handle/10161/11773/clyde129.pdf?sequence=1) 
 
 - [ ] [Lecture on Bayesian Bootstrap](http://bryangraham.github.io/econometrics/downloads/short_courses/cemfi_2015/Lecture_3_Bayesian_Bootstrap.pdf)

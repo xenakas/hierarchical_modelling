@@ -2,6 +2,17 @@
 
 Bayesian Pooling, Bayesian shrinkage, Empirical Bayes, and Stein estimation:
 
+### Examples
+
+- [ ] [Vector Autoregression (VAR) in Stan](https://groups.google.com/forum/#!topic/stan-users/8RerHVzxjUQ)
+
+- [ ] [HVAR in Stan](https://rpubs.com/jimsavage/hierarchical_var)
+
+- [ ] [AR(1) with JAGS](https://nwfsc-timeseries.github.io/atsa-labs/sec-jags-ar1.html)
+
+- [ ] [Multilevel AR(1) with JAGS](https://stats.stackexchange.com/questions/233645/jags-code-for-multilevel-model-with-ar1-autoregression-does-this-look-okay)
+
+- [ ] [Chineese STAN Models](http://ill-identified.hatenablog.com/entry/2016/02/14/205311)
 
 ### Slides
 
@@ -16,6 +27,8 @@ Bayesian Pooling, Bayesian shrinkage, Empirical Bayes, and Stein estimation:
 
 - [x] [Hierarchical Bayes and Empirical Bayes](https://www2.isye.gatech.edu/~brani/isyebayes/bank/handout8.pdf): James Stein Estimator and its EB Justification
 
+
+- [ ] [Bayesian Autoregressive Time Series Models](https://www.michaelchughes.com/blog/probability-basics/autoregressive-time-series-models/)
 
 ### Longreads
 
@@ -50,8 +63,13 @@ Kalman Filter,  Conditionally Independent Hierarchical method,  BVAR.  Time seri
 - [ ] [Forecasting international growth rates using Bayesian shrinkage and other procedures](https://www.sciencedirect.com/science/article/pii/0304407689900365): autoregressive-leading indicator (ARLI) 
 
 
+- [ ] [Bayesian estimation of an autoregressive model using Markov chain Monte Carlo](https://www.sciencedirect.com/science/article/pii/0304407695017445)
 
 
+
+- [ ] [Bayesian Analysis of AR (1) model](https://arxiv.org/pdf/1611.08747.pdf)
+
+- [ ] [Bayesian analysis of conditional autoregressive models](https://www.ism.ac.jp/editsec/aism/pdf/10463_2010_Article_298.pdf)
 
 - [ ] [Bayesian methods for functional and time series data](https://higherlogicdownload.s3.amazonaws.com/AMSTAT/7328eb46-c57e-49af-8d4f-0460ca4a6a2c/UploadedImages/Kowal.pdf): MCMC, FAR
 
