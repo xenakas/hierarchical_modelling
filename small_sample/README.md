@@ -1,5 +1,6 @@
 # Small sample:
 
+- [ ] [Classification Of Short Time Series](https://www.researchgate.net/publication/46447515_Classification_Of_Short_Time_Series)
 
 ## Slides:
 

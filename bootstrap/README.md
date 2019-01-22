@@ -77,6 +77,11 @@ the Parametric Bootstrap](http://statweb.stanford.edu/~ckirby/brad/papers/2011Bo
 
 ### Longreads:
 
+
+- [ ] [Bootstrapping clustered data](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9868.2007.00593.x)
+
+- [ ] [Nonparametric bootstrapping for hierarchical data](https://www.tandfonline.com/doi/abs/10.1080/02664760903046102)
+
 - [ ] [Bootstrap methods: another look at the jackknife](https://projecteuclid.org/download/pdf_1/euclid.aos/1176344552)
 
 - [ ] [Bootstrap Methods for Time Series](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1751-5823.2003.tb00485.x)
@@ -130,9 +135,11 @@ Unit Roots](https://pdfs.semanticscholar.org/03cd/fe24208bdbe2a99569b95a121cab40
 
 
 
+### Forecasting
 
-
-
+- [ ] [Bootstrap prediction intervals for autoregression using asymptotically mean-unbiased estimators](https://www.sciencedirect.com/science/article/pii/S0169207003000074)
+ 
+- [ ] [Bootstrap prediction regions for multivariate autoregressive processes](https://www.researchgate.net/publication/220363767_Bootstrap_prediction_regions_for_multivariate_autoregressive_processes)
 
 ## Seive Bootstrap:
 
