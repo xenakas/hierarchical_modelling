@@ -15,14 +15,9 @@
 
 ## Shortreads:
 
-- [ ] [The M3-Competition: results, conclusions and implications](https://pdfs.semanticscholar.org/8461/b79f9747a0caee85522c49bd4655c64e10fb.pdf): comparison of forecasting methods (TS: 14 obs for yearly data, 16 for quarterly... ) 
+- [ ] [The M3-Competition: results, conclusions and implications](https://pdfs.semanticscholar.org/8461/b79f9747a0caee85522c49bd4655c64e10fb.pdf): comparison of forecasting methods (TS: 14 obs for yearly data, 16 for quarterly,  forecast each series with ETS (ARIMA)
+models), [r mcomp](https://cran.r-project.org/web/packages/Mcomp/index.html)
 
-[Example](https://forecasters.org/wp-content/uploads/gravity_forms/7-2a51b93047891f1ec3608bdbd77ca58d/2014/07/Athanasopoulos_George_ISF2014.pdf): In total 3003 series.
-1,428 monthly series with a test sample of
-12 observations each.
-756 quarterly series with a test sample of
-8 observations each. Forecast each series with ETS (ARIMA)
-models. 
 
 - [ ] [When small samples are problematic](http://eiko-fried.com/small-samples-can-be-inherently-problematic/) 
 
@@ -41,10 +36,17 @@ models.
 
 ## Longreads:
 
+- [ ] [Autoregressive Prediction with Rolling Mechanism for Time Series Forecasting with Small Sample Size](https://www.hindawi.com/journals/mpe/2014/572173/)
+
 - [ ] [Analysis Techniques for Small Population Research](https://www.nap.edu/read/25112/chapter/8)
 
 - [ ] [Sufficient Sample Sizes for Multilevel Modeling](http://www.joophox.net/publist/methodology05.pdf)
 
+- [ ] [Regression and time series model selection in small samples](https://www.stat.berkeley.edu/~binyu/summer08/Hurvich.AICc.pdf)
+
+- [ ] [Small Sample Effect Maths](https://projecteuclid.org/download/pdf_1/euclid.aos/1176350838)
+
+- [ ] [Small-Sample Confidence Intervals](https://www.jstor.org/stable/2289779?seq=1#page_scan_tab_contents)
 
 ### Bayes for small samples:
 
