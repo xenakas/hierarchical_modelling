@@ -134,6 +134,8 @@ unknown orders](https://www.ine.pt/revstat/pdf/BootstrappredictionintervalforARM
 Unit Roots](https://pdfs.semanticscholar.org/03cd/fe24208bdbe2a99569b95a121cab402dafe5.pdf)
 
 
+- [ ] [The Grid Bootstrap and the Autoregressive Model](https://www.mitpressjournals.org/doi/10.1162/003465399558463)
+
 
 ### Forecasting
 

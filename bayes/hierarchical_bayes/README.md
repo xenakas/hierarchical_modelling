@@ -1,5 +1,7 @@
 # Hierarchical Bayesian Modelling
 
+- [ ] [Forecasting output growth rates and median output growth rates: a hierarchical Bayesian approach](https://onlinelibrary.wiley.com/doi/pdf/10.1002/for.800)
+
 ## Shortreads:
 
 
