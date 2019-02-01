@@ -1,10 +1,8 @@
 # Small sample:
 
-- [ ] [Classification Of Short Time Series](https://www.researchgate.net/publication/46447515_Classification_Of_Short_Time_Series)
-
 ## Slides:
 
-- [ ] [Small-Sample Inference and Bootstrap ](https://ocw.mit.edu/courses/sloan-school-of-management/15-450-analytics-of-finance-fall-2010/lecture-notes/MIT15_450F10_lec09.pdf )
+- [x] [Small-Sample Inference and Bootstrap ](https://ocw.mit.edu/courses/sloan-school-of-management/15-450-analytics-of-finance-fall-2010/lecture-notes/MIT15_450F10_lec09.pdf )
 
 
 - [ ] [Session: Quantitative Methods for Small Samples](http://www.greo.ca/en/greo-resource/resources/Documents/Bondy-Quantitative-Methods-for-Small-Samples-.pdf)

@@ -37,9 +37,10 @@ Representation](https://pdfs.semanticscholar.org/8a0d/b6529eeae4408712bd5148dce1
 - [ ] [An unsupervised conditional random fields approach for clustering gene expression time series](https://pdfs.semanticscholar.org/df3b/de558808516ce834189ba50004f85a86e815.pdf)
 
 
-- [ ] [Clustering Time Series Data: An Evolutionary
-Approach ](https://pdfs.semanticscholar.org/2c61/7a569a96fb3f34f182e18202d383f22d060b.pdf)
+- [ ] [Clustering Time Series Data: An Evolutionary Approach ](https://pdfs.semanticscholar.org/2c61/7a569a96fb3f34f182e18202d383f22d060b.pdf)
 
+
+- [x] [Classification Of Short Time Series](https://www.researchgate.net/publication/46447515_Classification_Of_Short_Time_Series)
 
 
 ### Examples:
