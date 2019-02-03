@@ -165,12 +165,14 @@ as well as functions for aggregating replicated cases, computing cluster quality
 for a range of clustering solutions and plotting clusters of state sequences.
 
 
-- [MLwiN](https://cran.r-project.org/web/packages/R2MLwiN/R2MLwiN.pdf): [Resources for using MLwiN](http://www.bristol.ac.uk/cmm/software/mlwin/mlwin-resources.html#mlmbkgrd), [r-bloggers tutorial](https://www.r-bloggers.com/working-with-r2mlwin-part-1/)
+- [MLwiN](https://cran.r-project.org/web/packages/R2MLwiN/R2MLwiN.pdf): [Resources for using MLwiN](http://www.bristol.ac.uk/cmm/software/mlwin/mlwin-resources.html#mlmbkgrd), [r-bloggers tutorial](https://www.r-bloggers.com/working-with-r2mlwin-part-1/), [sample sizes for multilevel models](http://www.bristol.ac.uk/cmm/learning/multilevel-models/samples.html), [MCMC estimation](https://seis.bristol.ac.uk/~frwjb/esrc/mcmc.pdf)
+
 
 - [bayesGDS](https://cran.r-project.org/web/packages/bayesGDS/bayesGDS.pdf): Functions for implementing the [Braun and Damien (2015) rejection
 sampling algorithm](https://www.researchgate.net/publication/260003754_Scalable_Rejection_Sampling_for_Bayesian_Hierarchical_Models) for Bayesian hierarchical models. The algorithm generates
 posterior samples in parallel, and is scalable when the individual units are
 conditionally independent. [Estimating Bayesian Hierarchical Models using bayesGDS](https://cran.r-project.org/web/packages/bayesGDS/vignettes/bayesGDS.pdf)
+
 
 #### Python Packages: 
 

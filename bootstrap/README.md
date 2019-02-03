@@ -1,4 +1,4 @@
-# Bootstrap and small sample problem
+# Bootstrap
 
 R package:
 
@@ -58,6 +58,7 @@ simulation (bootstrap) of Variable Length Markov Chain ('VLMC') Models. [Dendogr
 - [ ] [Bayesian Inference and
 the Parametric Bootstrap](http://statweb.stanford.edu/~ckirby/brad/papers/2011BootstrapMCMC.pdf)
 
+- [x] [Small-Sample Inference and Bootstrap](https://ocw.mit.edu/courses/sloan-school-of-management/15-450-analytics-of-finance-fall-2010/lecture-notes/MIT15_450F10_lec09.pdf )
 
 
 ## Bootstrap for TS:
@@ -232,5 +233,19 @@ Product Lifetime Probability Distribution](https://ac.els-cdn.com/S2405896315003
 
 
 - [ ] [The Impact of Bootstrap Methods on Time Series Analysis](http://www.math.ucsd.edu/~politis/StatSci03.pdf)
+
+
+
+
+### Bootstrap for small samples:
+
+- [ ] [Bootstrap algorithms for small samples](https://www.sciencedirect.com/science/article/pii/0378375891900135)
+
+- [ ] [The Bootstrap Small Sample Properties](http://faculty.washington.edu/fscholz/Reports/bootstrap-report.pdf)
+
+
+- [ ] [A First Look on Smaller Sized Samples for Bootstrap Derived Patterns of Profile Analysis via Multidimensional Scaling](http://ibmi.mf.uni-lj.si/mz/2013/no-1/Bratkovic2013.pdf)
+
+
 
 

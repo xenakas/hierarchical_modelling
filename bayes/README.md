@@ -19,6 +19,11 @@ Bayesian Pooling, Bayesian shrinkage, Empirical Bayes, and Stein estimation:
 - [x] [Shrinkage priors](http://www.jarad.me/courses/stat615/slides/Hierarchical/Hierarchical1.pdf)
 
 
+- [x] [Bayesian Methods for Small Population Analysis](https://sites.nationalacademies.org/cs/groups/dbassesite/documents/webpage/dbasse_184766.pdf)
+
+
+
+
 ### Shortreads
 
 - [x] [The Non-parametric Bootstrap as a Bayesian Model](http://www.sumsar.net/blog/2015/04/the-non-parametric-bootstrap-as-a-bayesian-model/)
@@ -77,3 +82,22 @@ Kalman Filter,  Conditionally Independent Hierarchical method,  BVAR.  Time seri
 
 
 - [ ] [ A Bayesian Model to Forecast New Product  Performance in Domestic and International  Markets](https://www.jstor.org/stable/pdf/193212.pdf?refreqid=excelsior%3A6ffa4c175c12f924017d227a9b4194eb)
+
+
+
+### Bayes for small samples:
+
+- [ ] [Bayesian Forecasting Methods for Short Time Series ](http://allman.rhon.itam.mx/~mendoza/Foresight.pdf)
+
+- [ ] [Analyzing small data sets using Bayesian estimation: the case of posttraumatic stress symptoms following mechanical ventilation in burn survivors](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4357639/)
+
+- [ ] [Assessing Bayesian Model Comparison in Small Samples](https://www.dallasfed.org/~/media/documents/institute/wpapers/2014/0189.pdf)
+
+- [ ] [On Using Bayesian Methods to Address Small Sample Problems](https://www.tandfonline.com/doi/abs/10.1080/10705511.2016.1186549?src=recsys&journalCode=hsem20)
+ 
+- [ ] [Contrast of Bayesian and Classical Sample Size Determination](https://digitalcommons.wayne.edu/cgi/viewcontent.cgi?article=1982&context=jmasm)
+
+- [ ] [Forecasting Short Time Series with the Bayesian Autoregression and the Soft Computing Prior Information](https://link.springer.com/chapter/10.1007/978-3-319-10765-3_10)
+
+
+
