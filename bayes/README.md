@@ -2,6 +2,13 @@
 
 Bayesian Pooling, Bayesian shrinkage, Empirical Bayes, and Stein estimation:
 
+# [pymc3](https://github.com/pymc-devs/pymc3)
+
+[The Best Of Both Worlds: Hierarchical Linear Regression in PyMC3](https://twiecki.github.io/blog/2014/03/17/bayesian-glms-3/)
+
+[Why hierarchical models are awesome, tricky, and Bayesian](https://twiecki.github.io/blog/2017/02/08/bayesian-hierchical-non-centered/)
+
+
 ### Examples
 
 - [ ] [Vector Autoregression (VAR) in Stan](https://groups.google.com/forum/#!topic/stan-users/8RerHVzxjUQ)
