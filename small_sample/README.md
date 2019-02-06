@@ -12,21 +12,19 @@
 
 - [x] [Best Predictive Small Area Estimation:](https://www.jstor.org/stable/41416406?seq=1#page_scan_tab_contents) [slides](https://ec.europa.eu/eurostat/cros/system/files/9A01_Keynote_Rao-v2_0.pdf)
 
+- [x] [Autoregressive Prediction with Rolling Mechanism for Time Series Forecasting with Small Sample Size](https://www.hindawi.com/journals/mpe/2014/572173/)
 
-- [ ] [Autoregressive Prediction with Rolling Mechanism for Time Series Forecasting with Small Sample Size](https://www.hindawi.com/journals/mpe/2014/572173/)
+- [x] [Analysis Techniques for Small Population Research](https://www.nap.edu/read/25112/chapter/8)
 
-- [ ] [Analysis Techniques for Small Population Research](https://www.nap.edu/read/25112/chapter/8)
 
-- [ ] [Sufficient Sample Sizes for Multilevel Modeling](http://www.joophox.net/publist/methodology05.pdf)
-
-- [ ] [Regression and time series model selection in small samples](https://www.stat.berkeley.edu/~binyu/summer08/Hurvich.AICc.pdf)
-
-- [ ] [Small Sample Effect Maths](https://projecteuclid.org/download/pdf_1/euclid.aos/1176350838)
+- [x] [Regression and time series model selection in small samples](https://www.stat.berkeley.edu/~binyu/summer08/Hurvich.AICc.pdf)
 
 - [ ] [Small-Sample Confidence Intervals](https://www.jstor.org/stable/2289779?seq=1#page_scan_tab_contents)
 
 
 ### Multilevel sample size: 
+
+- [x] [Sufficient Sample Sizes for Multilevel Modeling](http://www.joophox.net/publist/methodology05.pdf)
 
 - [ ] [How Many Countries for Multilevel Modeling? A Comparison of Frequentist and Bayesian Approaches](https://onlinelibrary.wiley.com/doi/abs/10.1111/ajps.12001)
 
