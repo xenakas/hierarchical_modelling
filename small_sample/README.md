@@ -19,7 +19,7 @@
 
 - [x] [Regression and time series model selection in small samples](https://www.stat.berkeley.edu/~binyu/summer08/Hurvich.AICc.pdf)
 
-- [ ] [Small-Sample Confidence Intervals](https://www.jstor.org/stable/2289779?seq=1#page_scan_tab_contents)
+- [x] [Small-Sample Confidence Intervals](https://www.jstor.org/stable/2289779?seq=1#page_scan_tab_contents)
 
 
 ### Multilevel sample size: 
