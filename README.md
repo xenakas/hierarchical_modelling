@@ -32,7 +32,7 @@ similarity/distance measures, clustering algorithms, r tutorial
 
 ## Longreads:
 
-- [ ] [Forecasting Economic Aggregates Using
+- [x] [Forecasting Economic Aggregates Using
 Dynamic Component Grouping](https://mpra.ub.uni-muenchen.de/81585/1/MPRA_paper_81585.pdf)
 
 
