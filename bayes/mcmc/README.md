@@ -42,7 +42,7 @@ Beautiful visualization [here](http://chi-feng.github.io/mcmc-demo/)
 
 ### Slides:
 
-- [ ] [MCMC for hierarchical models  or “an entire MCMC course in 90 minutes”](http://www.math.chalmers.se/~bodavid/GMRF2015/Lectures/F6slides.pdf)
+- [x] [MCMC for hierarchical models](http://www.math.chalmers.se/~bodavid/GMRF2015/Lectures/F6slides.pdf)
 
 - [ ] [Bayesian Computation: Posterior Sampling & MCMC](http://astrostatistics.psu.edu/su14/lectures/CosPop14-2-2-BayesComp-2.pdf)
 

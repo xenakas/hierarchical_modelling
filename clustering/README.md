@@ -96,7 +96,7 @@ similarity/distance measures, clustering algorithms, r tutorial
 
 - [ ] [Time-series clustering – Decade overview](https://www.sciencedirect.com/science/article/abs/pii/S0306437915000733) 
 
-- [ ] [Forecasting Economic Aggregates Using Dynamic Component Grouping](https://mpra.ub.uni-muenchen.de/81585/1/MPRA_paper_81585.pdf)
+- [x] [Forecasting Economic Aggregates Using Dynamic Component Grouping](https://mpra.ub.uni-muenchen.de/81585/1/MPRA_paper_81585.pdf)
 
 
 - [ ] [A Scalable Method for Time Series Clustering ](https://robjhyndman.com/papers/wang.pdf)

@@ -1,29 +1,5 @@
 # Bootstrap
 
-R package:
-
-
-- [boot](https://cran.r-project.org/web/packages/boot/boot.pdf): Calculate equi-tailed 
-two-sided nonparametric approximate bootstrap confidence intervals for a parameter,
-given a set of data and an estimator of the parameter, using numerical differentiation.
-``tsboot`` generate R bootstrap replicates of a statistic applied to a time series. 
-The replicate time series can be generated using fixed or random block lengths 
-or can be model based replicates.
-
-
-- [VLMC](https://cran.r-project.org/web/packages/VLMC/VLMC.pdf):  Functions, Classes & Methods for estimation, prediction, and
-simulation (bootstrap) of Variable Length Markov Chain ('VLMC') Models. [Dendograms](https://rdrr.io/cran/VLMC/man/as.dendrogram.vlmc.html)
-
-- [mht](https://cran.r-project.org/web/packages/mht/mht.pdf): multiple Hypothesis Testing For Variable Selection in high dimensional linear models, [bolasso](https://www.di.ens.fr/~fbach/fbach_bolasso_icml2008.pdf)
-
-- [bayesboot](https://cran.r-project.org/web/packages/bayesboot/bayesboot.pdf): an Implementation of [Rubin's (1981) Bayesian Bootstrap](https://projecteuclid.org/download/pdf_1/euclid.aos/1176345338), 
-
-
-
-- [meboot](https://cran.r-project.org/web/packages/meboot/meboot.pdf): Maximum entropy density based dependent data bootstrap.
-
-
-
 
 ### Examples:
 
@@ -67,7 +43,7 @@ the Parametric Bootstrap](http://statweb.stanford.edu/~ckirby/brad/papers/2011Bo
 
 - [ ] [A comparison of four different block bootstrap methods](https://hrcak.srce.hr/index.php?show=clanak&id_clanak_jezik=197357)
 
-- [ ] [Resampling Methods for Time Series](http://www-stat.wharton.upenn.edu/~stine/stat910/lectures/13_bootstrap.pdf)
+- [x] [Resampling Methods for Time Series](http://www-stat.wharton.upenn.edu/~stine/stat910/lectures/13_bootstrap.pdf)
 
 - [ ] [The miracle of the bootstrap](http://thestatsgeek.com/2013/07/02/the-miracle-of-the-bootstrap/ )
 
