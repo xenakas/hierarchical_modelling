@@ -1,23 +1,5 @@
 # Hierarchical modelling
 
-## Examples:
-
-- [ ] [Time Series Clustering/Classification](http://www.stat.unc.edu/faculty/pipiras/timeseries/Multivariate_6_-_Classification_Clustering_-_Menu.html#what_is_this_all_about)
-similarity/distance measures, clustering algorithms, r tutorial
-
-- [ ] [R examples](http://www.rdatamining.com/examples/hierarchical-clustering)
-
-- [ ] [Statistical Shrinkage](https://eranraviv.com/shrinkage-in-statistics/)
-
-
-## Shortreads:
-
-- [ ] [Discussion: Bootstrap methods for dependent data: A review](http://mapageweb.umontreal.ca/goncals/documents/Goncalves-Politis-2011.pdf)
-
-- [ ] [Constructing a logic of plausible Inference: a guide to Cox's theorem](http://ksvanhorn.com/bayes/Papers/rcox.pdf)
-
-## Longreads:
-
 - [x] [Autoregressive Prediction with Rolling Mechanism for Time Series Forecasting with Small Sample Size](https://www.hindawi.com/journals/mpe/2014/572173/)
 
 - [x] [The M3-Competition: results, conclusions and implications](https://pdfs.semanticscholar.org/8461/b79f9747a0caee85522c49bd4655c64e10fb.pdf)
@@ -65,20 +47,33 @@ Product Lifetime Probability Distribution](https://ac.els-cdn.com/S2405896315003
 - [ ] [Bayes or Bootstrap? A Simulation Study Comparing the Performance of Bayesian Markov Chain Monte Carlo Sampling and Bootstrapping](https://academic.oup.com/mbe/article/20/2/255/1003275)
 
 
-#### Offtop: 
+- [ ] [Constructing a logic of plausible Inference: a guide to Cox's theorem](http://ksvanhorn.com/bayes/Papers/rcox.pdf)
 
-- [ ] [A large Bayesian vector autoregression model for Russia ](http://www.cbr.ru/content/document/file/16690/wps_1_e.pdf)
 
-- [ ] [NUMERICAL METHODS FOR ESTIMATION AND
-INFERENCE IN BAYESIAN VAR-MODELS](https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1099-1255(199703)12:2<99::AID-JAE429>3.0.CO;2-A)
 
-- [ ] [Asymmetric time aggregation and its potential benefits for forecasting annual data](https://link.springer.com/article/10.1007/s00181-014-0864-0)
 
 - [ ] [Forecasting with group seasonality](https://pure.tue.nl/ws/files/1718873/200610743.pdf)
 
-- [ ] [Dynamic Bayesian Predictive Synthesis in Time Series Forecasting](https://arxiv.org/pdf/1601.07463.pdf): Posterior Computations via MCMC,  US Macroeconomic Time Series
+
+- [ ] [NUMERICAL METHODS FOR ESTIMATION AND INFERENCE IN BAYESIAN VAR-MODELS](https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1099-1255(199703)12:2<99::AID-JAE429>3.0.CO;2-A)
+
+
+
 
 - [ ] [Forecasting with Medium and Large Bayesian VARs](http://ecares.ulb.ac.be/ecaresdocuments/seminars1011/koop.pdf)
 
-- [ ] [A review of threshold time series models in
-finance](http://intlpress.com/site/pub/files/_fulltext/journals/sii/2011/0004/0002/SII-2011-0004-0002-a012.pdf): TARMAX, RJMCMC
+- [ ] [Dynamic Bayesian Predictive Synthesis in Time Series Forecasting](https://arxiv.org/pdf/1601.07463.pdf): Posterior Computations via MCMC,  US Macroeconomic Time Series
+
+
+
+
+
+## Examples:
+
+- [ ] [Time Series Clustering/Classification](http://www.stat.unc.edu/faculty/pipiras/timeseries/Multivariate_6_-_Classification_Clustering_-_Menu.html#what_is_this_all_about)
+similarity/distance measures, clustering algorithms, r tutorial
+
+- [ ] [R examples](http://www.rdatamining.com/examples/hierarchical-clustering)
+
+- [ ] [Statistical Shrinkage](https://eranraviv.com/shrinkage-in-statistics/)
+

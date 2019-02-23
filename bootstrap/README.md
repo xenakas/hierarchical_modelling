@@ -1,6 +1,9 @@
 # Bootstrap
 
 
+
+- [ ] [Discussion: Bootstrap methods for dependent data: A review](http://mapageweb.umontreal.ca/goncals/documents/Goncalves-Politis-2011.pdf)
+
 ### Examples:
 
 - [ ] [Time-series Bootstraps

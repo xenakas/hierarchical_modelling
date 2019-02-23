@@ -107,4 +107,8 @@ Kalman Filter,  Conditionally Independent Hierarchical method,  BVAR.  Time seri
 - [ ] [Forecasting Short Time Series with the Bayesian Autoregression and the Soft Computing Prior Information](https://link.springer.com/chapter/10.1007/978-3-319-10765-3_10)
 
 
+### BVAR
+
+- [x] [A large Bayesian vector autoregression model for Russia ](http://www.cbr.ru/content/document/file/16690/wps_1_e.pdf)
+
 
