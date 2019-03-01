@@ -1,5 +1,7 @@
 # ML Forecasting Methods
 
+- [ ] [Deep Learning for Time Series Forecasting](https://machinelearningmastery.com/how-to-get-started-with-deep-learning-for-time-series-forecasting-7-day-mini-course/)
+
 ## Shortreads:
 
 - [ ] [Dynamic Ridge Polynomial Neural Network: Forecasting the univariate non-stationary and stationary trading signals](https://www.sciencedirect.com/science/article/pii/S0957417410009942)
@@ -10,10 +12,7 @@
 
 - [ ] [A REVIEW ON OPTIMIZATION OF LEAST SQUARES SUPPORT VECTOR MACHINE FOR TIME SERIES FORECASTING](https://pdfs.semanticscholar.org/5aac/1c92a4de120eaf0ff4b3027022a070c41b77.pdf)
 
-### Examples:
 
-
-- [ ] [Deep Learning for Time Series Forecasting](https://machinelearningmastery.com/how-to-get-started-with-deep-learning-for-time-series-forecasting-7-day-mini-course/)
 
 #### LSTM:
 
@@ -27,11 +26,5 @@
 - [ ] [Time Series Forecasting with the Long Short-Term Memory Network in Python](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/)
 - [ ] [Vanilla LSTM, Stacked LSTM, Bidirectional LSTM, CNN LSTM, ConvLSTM](https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/)
 - [ ] [LSTM Models for Multi-Step Time Series Forecasting](https://machinelearningmastery.com/how-to-develop-lstm-models-for-multi-step-time-series-forecasting-of-household-power-consumption/)
-
-
-
-
-
-## Longreads:
 
 - [ ] [FORECASTING ECONOMIC AND FINANCIAL TIME SERIES: ARIMA VS. LSTM](https://arxiv.org/pdf/1803.06386.pdf)
