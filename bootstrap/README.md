@@ -6,6 +6,8 @@
 
 ### Examples:
 
+- [x] [Bootstrapping Regression Models in R](https://socialsciences.mcmaster.ca/jfox/Books/Companion/appendices/Appendix-Bootstrapping.pdf)
+
 - [ ] [Time-series Bootstraps
  in python](https://arch.readthedocs.io/en/latest/bootstrap/timeseries-bootstraps.html)
 
