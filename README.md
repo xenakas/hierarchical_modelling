@@ -1,5 +1,8 @@
 # Hierarchical modelling
 
+- [ ] [Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/)
+
+
 - [x] [Autoregressive Prediction with Rolling Mechanism for Time Series Forecasting with Small Sample Size](https://www.hindawi.com/journals/mpe/2014/572173/)
 
 - [x] [The M3-Competition: results, conclusions and implications](https://pdfs.semanticscholar.org/8461/b79f9747a0caee85522c49bd4655c64e10fb.pdf)
@@ -10,7 +13,7 @@
 ](https://onlinelibrary.wiley.com/doi/pdf/10.1002/for.800)
 
 - [ ] [Forecasting Short Time Series
-with the Bayesian Autoregression
+with the Bayesian Autoregression                
 and the Soft Computing Prior Information](https://link.springer.com/chapter/10.1007/978-3-319-10765-3_10)
 
 - [ ] [Forecasting analogous time series](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.519.6011&rep=rep1&type=pdf): Bayesian Pooling, Bayesian shrinkage, BVAR  
@@ -38,36 +41,10 @@ Kalman Filter,  Conditionally Independent Hierarchical method,  BVAR.  Time seri
 
 
 
-        
-
-
-- [ ] [Constructing a logic of plausible Inference: a guide to Cox's theorem](http://ksvanhorn.com/bayes/Papers/rcox.pdf)
-
-
-
-
 - [ ] [Forecasting with group seasonality](https://pure.tue.nl/ws/files/1718873/200610743.pdf)
 
 
-- [ ] [NUMERICAL METHODS FOR ESTIMATION AND INFERENCE IN BAYESIAN VAR-MODELS](https://onlinelibrary.wiley.com/doi/abs/10.1002/(SICI)1099-1255(199703)12:2<99::AID-JAE429>3.0.CO;2-A)
-
-
-
-
-- [ ] [Forecasting with Medium and Large Bayesian VARs](http://ecares.ulb.ac.be/ecaresdocuments/seminars1011/koop.pdf)
-
-- [ ] [Dynamic Bayesian Predictive Synthesis in Time Series Forecasting](https://arxiv.org/pdf/1601.07463.pdf): Posterior Computations via MCMC,  US Macroeconomic Time Series
-
-
-
-
-
-## Examples:
-
-- [ ] [Time Series Clustering/Classification](http://www.stat.unc.edu/faculty/pipiras/timeseries/Multivariate_6_-_Classification_Clustering_-_Menu.html#what_is_this_all_about)
-similarity/distance measures, clustering algorithms, r tutorial
-
-- [ ] [R examples](http://www.rdatamining.com/examples/hierarchical-clustering)
-
 - [ ] [Statistical Shrinkage](https://eranraviv.com/shrinkage-in-statistics/)
+
+
 
