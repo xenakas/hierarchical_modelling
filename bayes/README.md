@@ -33,7 +33,6 @@ Bayesian Pooling, Bayesian shrinkage, Empirical Bayes, and Stein estimation:
 
 ### Shortreads
 
-- [x] [The Non-parametric Bootstrap as a Bayesian Model](http://www.sumsar.net/blog/2015/04/the-non-parametric-bootstrap-as-a-bayesian-model/)
 
 - [x] [Bayesian Inference](http://pages.stat.wisc.edu/~larget/stat302/bayes.pdf)
 
@@ -111,4 +110,6 @@ Kalman Filter,  Conditionally Independent Hierarchical method,  BVAR.  Time seri
 
 - [x] [A large Bayesian vector autoregression model for Russia ](http://www.cbr.ru/content/document/file/16690/wps_1_e.pdf)
 
+### Numerucal Estimation
 
+- [ ] [Bayes or Bootstrap? A Simulation Study Comparing the Performance of Bayesian Markov Chain Monte Carlo Sampling and Bootstrapping](https://academic.oup.com/mbe/article/20/2/255/1003275)

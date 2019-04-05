@@ -38,13 +38,7 @@ Kalman Filter,  Conditionally Independent Hierarchical method,  BVAR.  Time seri
 
 
 
-
-- [ ] [Bootstrap and Maximum Entropy Based Small-sample
-Product Lifetime Probability Distribution](https://ac.els-cdn.com/S2405896315003237/1-s2.0-S2405896315003237-main.pdf?_tid=8d1881b9-60f4-4175-8ee8-45b9fde1c368&acdnat=1541141244_8e2bc14c566774b43b8cd097e653bc11)
-
-
-
-- [ ] [Bayes or Bootstrap? A Simulation Study Comparing the Performance of Bayesian Markov Chain Monte Carlo Sampling and Bootstrapping](https://academic.oup.com/mbe/article/20/2/255/1003275)
+        
 
 
 - [ ] [Constructing a logic of plausible Inference: a guide to Cox's theorem](http://ksvanhorn.com/bayes/Papers/rcox.pdf)
