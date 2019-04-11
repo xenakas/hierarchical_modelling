@@ -44,7 +44,7 @@ Kalman Filter,  Conditionally Independent Hierarchical method,  BVAR.  Time seri
 - [ ] [Forecasting with group seasonality](https://pure.tue.nl/ws/files/1718873/200610743.pdf)
 
 
-- [ ] [Statistical Shrinkage](https://eranraviv.com/shrinkage-in-statistics/)
+- [ ] [Statistical Shrinkage](https://eranraviv.                        com/shrinkage-in-statistics/)
 
 
 

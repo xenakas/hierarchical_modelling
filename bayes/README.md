@@ -99,7 +99,7 @@ James–Stein Estimator](http://statweb.stanford.edu/~ckirby/brad/LSI/chapter1.p
 
 
 - [x] [Hierarchical Bayes and Empirical Bayes](https://www2.isye.gatech.edu/~brani/isyebayes/bank/handout8.pdf): James Stein Estimator and its EB Justification
-
+  
 - [ ] [Hierarchical and empirical Bayesian methods](http://www.stats.ox.ac.uk/~reinert/stattheory/chapter1107.pdf): MCMC?
 
 
