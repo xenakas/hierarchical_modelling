@@ -105,9 +105,9 @@ James–Stein Estimator](http://statweb.stanford.edu/~ckirby/brad/LSI/chapter1.p
 
 - [x] [Empirical and Hierarchical Bayes](https://www.cs.ubc.ca/~schmidtm/Courses/540-W16/L19.pdf)
 
-- [ ] [Hierarchical and Empirical Bayes Analyses](https://www.stat.unipd.it/sites/default/files/bayesian-mod4.pdf)
+- [x] [Hierarchical and Empirical Bayes Analyses](https://www.stat.unipd.it/sites/default/files/bayesian-mod4.pdf)
 
-- [ ] [Empirical Bayes vs. fully Bayes variable selection](http://www-stat.wharton.upenn.edu/~edgeorge/Research_papers/CG%20JSPI%202008.pdf)
+- [x] [Empirical Bayes vs. fully Bayes variable selection](http://www-stat.wharton.upenn.edu/~edgeorge/Research_papers/CG%20JSPI%202008.pdf)
 
 - [ ] [Empirical Hierarchical Bayes Estimation](https://link.springer.com/chapter/10.1007/978-1-4612-2944-5_8)
 
