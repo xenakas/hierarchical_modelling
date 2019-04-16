@@ -4,9 +4,11 @@ Bayesian Pooling, Bayesian shrinkage, Empirical Bayes, and Stein estimation:
 
 - [x] [Bayesian Inference](http://pages.stat.wisc.edu/~larget/stat302/bayes.pdf)
 
-- [ ] [Bayesian Autoregressive Time Series Models](https://www.michaelchughes.com/blog/probability-basics/autoregressive-time-series-models/)
+- [x] [Bayesian Autoregressive Time Series Models](https://www.michaelchughes.com/blog/probability-basics/autoregressive-time-series-models/)
 
-### Shrinkage
+### Shrinkage 
+
+  - [x] [Forecasting analogous time series](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.519.6011&rep=rep1&type=pdf): Bayesian Pooling, Bayesian shrinkage, BVAR  
 
 - [x] [Shrinkage priors](http://www.jarad.me/courses/stat615/slides/Hierarchical/Hierarchical1.pdf)
 
@@ -15,12 +17,6 @@ Bayesian Pooling, Bayesian shrinkage, Empirical Bayes, and Stein estimation:
 - [ ] [Forecasting international growth rates using Bayesian shrinkage and other procedures](https://www.sciencedirect.com/science/article/pii/0304407689900365): autoregressive-leading indicator (ARLI) 
 
 - [ ] [Hierarchical Shrinkage Priors for Regression Models](https://projecteuclid.org/download/pdfview_1/euclid.ba/1453211963)
-
-
-### Pooling
-
-- [ ] [Forecasting analogous time series](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.519.6011&rep=rep1&type=pdf): Bayesian Pooling, Bayesian shrinkage, BVAR  
-
 
 
 ### Hierarchical Bayes
@@ -102,14 +98,14 @@ James–Stein Estimator](http://statweb.stanford.edu/~ckirby/brad/LSI/chapter1.p
   
 - [x] [Hierarchical and empirical Bayesian methods](http://www.stats.ox.ac.uk/~reinert/stattheory/chapter1107.pdf)
 
-
+  
 - [x] [Empirical and Hierarchical Bayes](https://www.cs.ubc.ca/~schmidtm/Courses/540-W16/L19.pdf)
 
 - [x] [Hierarchical and Empirical Bayes Analyses](https://www.stat.unipd.it/sites/default/files/bayesian-mod4.pdf)
 
 - [x] [Empirical Bayes vs. fully Bayes variable selection](http://www-stat.wharton.upenn.edu/~edgeorge/Research_papers/CG%20JSPI%202008.pdf)
 
-- [ ] [Empirical Hierarchical Bayes Estimation](https://link.springer.com/chapter/10.1007/978-1-4612-2944-5_8)
+- [x] [Empirical Hierarchical Bayes Estimation](https://link.springer.com/chapter/10.1007/978-1-4612-2944-5_8)
 
 
 

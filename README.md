@@ -1,4 +1,4 @@
-# Hierarchical modelling
+# Hiera rchical modelling
 
 - [ ] [Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/)
 
@@ -16,7 +16,7 @@
 with the Bayesian Autoregression                
 and the Soft Computing Prior Information](https://link.springer.com/chapter/10.1007/978-3-319-10765-3_10)
 
-- [ ] [Forecasting analogous time series](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.519.6011&rep=rep1&type=pdf): Bayesian Pooling, Bayesian shrinkage, BVAR  
+- [x] [Forecasting analogous time series](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.519.6011&rep=rep1&type=pdf): Bayesian Pooling
 
 
 - [ ] [Forecasting international growth rates using Bayesian shrinkage and other procedures](https://www.sciencedirect.com/science/article/pii/0304407689900365): autoregressive-leading indicator (ARLI) 
