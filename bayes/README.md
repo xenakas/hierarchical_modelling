@@ -8,15 +8,15 @@ Bayesian Pooling, Bayesian shrinkage, Empirical Bayes, and Stein estimation:
 
 ### Shrinkage 
 
-  - [x] [Forecasting analogous time series](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.519.6011&rep=rep1&type=pdf): Bayesian Pooling, Bayesian shrinkage, BVAR  
+- [x] [Forecasting analogous time series](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.519.6011&rep=rep1&type=pdf): Bayesian Pooling, Bayesian shrinkage, BVAR  
 
 - [x] [Shrinkage priors](http://www.jarad.me/courses/stat615/slides/Hierarchical/Hierarchical1.pdf)
 
-- [ ] [Bayesian shrinkage](https://arxiv.org/pdf/1212.6088.pdf)
+- [x] [Bayesian shrinkage](https://arxiv.org/pdf/1212.6088.pdf)
 
-- [ ] [Forecasting international growth rates using Bayesian shrinkage and other procedures](https://www.sciencedirect.com/science/article/pii/0304407689900365): autoregressive-leading indicator (ARLI) 
+- [x] [Forecasting international growth rates using Bayesian shrinkage and other procedures](https://www.sciencedirect.com/science/article/pii/0304407689900365): ARLI
 
-- [ ] [Hierarchical Shrinkage Priors for Regression Models](https://projecteuclid.org/download/pdfview_1/euclid.ba/1453211963)
+- [x] [Hierarchical Shrinkage Priors for Regression Models](https://projecteuclid.org/download/pdfview_1/euclid.ba/1453211963)
 
 
 ### Hierarchical Bayes

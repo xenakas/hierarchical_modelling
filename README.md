@@ -19,7 +19,7 @@ and the Soft Computing Prior Information](https://link.springer.com/chapter/10.1
 - [x] [Forecasting analogous time series](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.519.6011&rep=rep1&type=pdf): Bayesian Pooling
 
 
-- [ ] [Forecasting international growth rates using Bayesian shrinkage and other procedures](https://www.sciencedirect.com/science/article/pii/0304407689900365): autoregressive-leading indicator (ARLI) 
+- [x] [Forecasting international growth rates using Bayesian shrinkage and other procedures](https://www.sciencedirect.com/science/article/pii/0304407689900365): ARLI
 
 
 - [ ] [Bayesian Forecasting for Seemingly Unrelated Time Series: Application to Local Government Revenue Forecasting](https://www.jstor.org/stable/2632644?seq=1#page_scan_tab_contents):
