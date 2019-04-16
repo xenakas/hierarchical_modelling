@@ -9,8 +9,7 @@
 
 - [x] [Forecasting Economic Aggregates Using Dynamic Component Grouping](https://mpra.ub.uni-muenchen.de/81585/1/MPRA_paper_81585.pdf)
 
-- [ ] [Forecasting output growth rates and median output growth rates: a hierarchical Bayesian approach
-](https://onlinelibrary.wiley.com/doi/pdf/10.1002/for.800)
+- [x] [Forecasting output growth rates and median output growth rates: a hierarchical Bayesian approach](https://onlinelibrary.wiley.com/doi/pdf/10.1002/for.800)
 
 - [ ] [Forecasting Short Time Series
 with the Bayesian Autoregression                

@@ -8,7 +8,7 @@ Bayesian Pooling, Bayesian shrinkage, Empirical Bayes, and Stein estimation:
 
 ### Shrinkage 
 
-- [x] [Forecasting analogous time series](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.519.6011&rep=rep1&type=pdf): Bayesian Pooling, Bayesian shrinkage, BVAR  
+- [x] [Forecasting analogous time series](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.519.6011&rep=rep1&type=pdf): Bayesian   Pooling
 
 - [x] [Shrinkage priors](http://www.jarad.me/courses/stat615/slides/Hierarchical/Hierarchical1.pdf)
 
@@ -21,7 +21,7 @@ Bayesian Pooling, Bayesian shrinkage, Empirical Bayes, and Stein estimation:
 
 ### Hierarchical Bayes
 
-- [ ] [Forecasting output growth rates and median output growth rates: a hierarchical Bayesian approach](https://onlinelibrary.wiley.com/doi/pdf/10.1002/for.800)
+- [x] [Forecasting output growth rates and median output growth rates: a hierarchical Bayesian approach](https://onlinelibrary.wiley.com/doi/pdf/10.1002/for.800)
 
 - [ ] [Multilevel (Hierarchical) Modeling: What It Can and Cannot Do](http://www.stat.columbia.edu/~gelman/research/published/multi2.pdf)
 
