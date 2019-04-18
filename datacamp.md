@@ -26,7 +26,7 @@ Clustering
 - [ ] Introduction to Machine Learning
 
 
-- [ ] Unsupervised Learning in R or Unsupervised Learning in Python
+- [x] Unsupervised Learning in R or Unsupervised Learning in Python
 
 - [ ] Machine Learning with Tree-Based Models in Python
 

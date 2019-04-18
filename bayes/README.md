@@ -36,8 +36,8 @@ Pooling in Multilevel (Hierarchical) Models](http://www.stat.columbia.edu/~gelma
 
 - [ ] [Multilevel Mixed (hierarchical) models](http://fmwww.bc.edu/EC-C/S2013/823/EC823.S2013.nn07.slides.pdf)
 
-
-
+  
+      
 #### Slides:
 
 - [ ] [Hierarchical Bayesian modeling](https://www.stat.tamu.edu/~jlong/astrostat/ASTRO-WG4-HBMIntro.pdf)

@@ -25,6 +25,3 @@
 - [United Nations library](http://libraryresources.unog.ch)
 
 
-### Plotting 
-
-- [ ] [plot.gts: Plot grouped or hierarchical time series](https://rdrr.io/cran/hts/man/plot.gts.html)
