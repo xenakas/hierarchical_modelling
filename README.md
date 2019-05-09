@@ -1,6 +1,6 @@
-# Hiera rchical modelling
+# Hierarchical modelling
 
-- [ ] [Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/)
+- [x] [Statistics for Applications](https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/)
 
 
 - [x] [Autoregressive Prediction with Rolling Mechanism for Time Series Forecasting with Small Sample Size](https://www.hindawi.com/journals/mpe/2014/572173/)
