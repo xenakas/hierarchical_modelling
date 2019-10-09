@@ -23,7 +23,7 @@ Bayesian Pooling, Bayesian shrinkage, Empirical Bayes, and Stein estimation:
 
 - [x] [Forecasting output growth rates and median output growth rates: a hierarchical Bayesian approach](https://onlinelibrary.wiley.com/doi/pdf/10.1002/for.800)
 
-- [ ] [Multilevel (Hierarchical) Modeling: What It Can and Cannot Do](http://www.stat.columbia.edu/~gelman/research/published/multi2.pdf)
+  - [ ] [Multilevel (Hierarchical) Modeling: What It Can and Cannot Do](http://www.stat.columbia.edu/~gelman/research/published/multi2.pdf)
 
 - [ ] [HIERARCHICAL BAYESIAN TIME SERIES MODELS](https://pdfs.semanticscholar.org/73ae/e06d045f3a95cf598b6208b46362fb006e95.pdf?_ga=2.48066341.304278015.1541139922-1392297038.1541139922)
 
