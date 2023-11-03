@@ -1,0 +1,85 @@
+,ID_0,ISO,NAME_0,ID_1,NAME_1,TYPE_1,ENGTYPE_1,NL_NAME_1,lat,long
+0,188,RUS,Russia,1,Adygey,Respublika,Republic,Республика Адыгея,39.98715832298343,44.58125466695088
+1,188,RUS,Russia,2,Altay,Kray,Territory,Алтайский край,82.5997701846538,52.609180848513965
+2,188,RUS,Russia,3,Amur,Oblast,Region,Амурская область,127.71163911196199,53.41848185956029
+3,188,RUS,Russia,4,Arkhangel'sk,Oblast,Region,Архангельская область,48.43770385002021,67.86567896718024
+4,188,RUS,Russia,5,Astrakhan',Oblast,Region,Астраханская область,47.33740597535713,47.11664072906239
+5,188,RUS,Russia,6,Bashkortostan,Respublika,Republic,Республика Башкортостан,56.528300975467786,54.28201322812539
+6,188,RUS,Russia,7,Belgorod,Oblast,Region,Белгородская область,37.545305550762286,50.67102136016434
+7,188,RUS,Russia,8,Bryansk,Oblast,Region,Брянская область,33.40628480981726,52.91030130187259
+8,188,RUS,Russia,9,Buryat,Respublika,Republic,Республика Бурятия,109.50648812159459,53.5660064902492
+9,188,RUS,Russia,10,Chechnya,Respublika,Republic,Республика Чечено-Ингушска,45.79918208255426,43.26872008015039
+10,188,RUS,Russia,11,Chelyabinsk,Oblast,Region,Челябинская область,60.413177189819464,54.47513904565029
+11,188,RUS,Russia,12,Chukot,Avtonomnyy Okrug,Autonomous Province,Чукотский АОк,172.85169479397464,66.48627677503063
+12,188,RUS,Russia,13,Chuvash,Respublika,Republic,Чувашская Республика,47.10248337523336,55.50741870209558
+13,188,RUS,Russia,14,City of St. Petersburg,Gorsovet,City,Санкт-Петербург (горсовет),30.18247392490006,59.90217594107697
+14,188,RUS,Russia,15,Dagestan,Respublika,Republic,Республика Дагестан,46.873873549238404,43.03556821645306
+15,188,RUS,Russia,16,Gorno-Altay,Respublika,Republic,Республика Алтай,87.01469866729867,50.735920126498165
+16,188,RUS,Russia,17,Ingush,Respublika,Republic,Респу́блика Ингуше́тия,44.95879841983974,43.17013332156392
+17,188,RUS,Russia,18,Irkutsk,Oblast,Region,Иркутская область,106.29086663247162,57.0842832465681
+18,188,RUS,Russia,19,Ivanovo,Oblast,Region,Ивановская область,41.72664453665994,56.99921915590824
+19,188,RUS,Russia,20,Kabardin-Balkar,Respublika,Republic,Кабардино-Балкарская Респу,43.526648542408594,43.43547639182537
+20,188,RUS,Russia,21,Kaliningrad,Oblast,Region,Калининградская область,21.453314699910944,54.705705292727565
+21,188,RUS,Russia,22,Kalmyk,Respublika,Republic,Республика Калмыкия,45.38380756998292,46.421462139175404
+22,188,RUS,Russia,23,Kaluga,Oblast,Region,Калужская область,35.46502499139571,54.355520864921374
+23,188,RUS,Russia,24,Kamchatka,Kray,Territory,Камчатская край,162.94601482156526,58.871097561884845
+24,188,RUS,Russia,25,Karachay-Cherkess,Respublika,Republic,Карачаево-Черкессия Респуб,41.84570861574853,43.75296135389591
+25,188,RUS,Russia,26,Karelia,Respublika,Republic,Республика Карелия,33.14797607879846,63.54149267531279
+26,188,RUS,Russia,27,Kemerovo,Oblast,Region,Кемеровская область,87.20999303629532,54.77541144238403
+27,188,RUS,Russia,28,Khabarovsk,Kray,Territory,Хабаровский край,137.346367933379,54.81349938213352
+28,188,RUS,Russia,29,Khakass,Respublika,Republic,Республика Хакасия,89.85416848433746,53.36357516684888
+29,188,RUS,Russia,30,Khanty-Mansiy,Avtonomnyy Okrug,Autonomous Province,Ханты-Мансийский АОк,70.34573209027107,61.85309478013883
+30,188,RUS,Russia,31,Kirov,Oblast,Region,Кировская область,49.84600373810859,58.69933215022284
+31,188,RUS,Russia,32,Komi,Respublika,Republic,Республика Коми,54.772128124373296,64.13111727801788
+32,188,RUS,Russia,33,Kostroma,Oblast,Region,Костромская область,43.81808873166446,58.45291768353177
+33,188,RUS,Russia,34,Krasnodar,Kray,Territory,Краснодарский край,39.5423785356189,45.19711822355124
+34,188,RUS,Russia,35,Krasnoyarsk,Kray,Territory,Красноярский край,96.05119912839176,67.47966230339
+35,188,RUS,Russia,36,Kurgan,Oblast,Region,Курганская область,64.81633656988787,55.471374964744605
+36,188,RUS,Russia,37,Kursk,Oblast,Region,Курская область,36.12732576839293,51.70250631366778
+37,188,RUS,Russia,38,Leningrad,Oblast,Region,Ленинградская область,31.739840175145485,59.99976746099062
+38,188,RUS,Russia,39,Lipetsk,Oblast,Region,Липецкая область,39.18717896158698,52.63446506006573
+39,188,RUS,Russia,40,Maga Buryatdan,Oblast,Region,Магаданская область,154.03454573241476,62.70455306076852
+40,188,RUS,Russia,41,Mariy-El,Respublika,Republic,Республика Марий Эл,47.94295274780037,56.60152334745818
+41,188,RUS,Russia,42,Mordovia,Respublika,Republic,Республика Мордовия,44.477793868305795,54.35862328328691
+42,188,RUS,Russia,43,Moscow City,Gorod,City,,37.61497150612033,55.737999095849425
+43,188,RUS,Russia,44,Moskva,Oblast,Region,Московская область,37.66610356142484,55.64431466310018
+44,188,RUS,Russia,45,Murmansk,Oblast,Region,Мурманская область,34.5723056095647,67.80619683418851
+45,188,RUS,Russia,46,Nenets,Avtonomnyy Okrug,Autonomous Province,Ненецкий АОк,54.998276857455934,67.87876387962226
+46,188,RUS,Russia,47,Nizhegorod,Oblast,Region,Нижегородская область,44.6457492128808,56.279394991908134
+47,188,RUS,Russia,48,North Ossetia,Respublika,Republic,Республика Северная Осетия,44.32527839886589,43.05388297439325
+48,188,RUS,Russia,49,Novgorod,Oblast,Region,Новгородская область,32.55661518417007,58.28044868340071
+49,188,RUS,Russia,50,Novosibirsk,Oblast,Region,Новосибирская область,79.76518270630648,55.26809362277068
+50,188,RUS,Russia,51,Omsk,Oblast,Region,Омская область,73.36249677720097,56.09160918342172
+51,188,RUS,Russia,52,Orel,Oblast,Region,Орловская область,36.484837468000784,52.79240686541798
+52,188,RUS,Russia,53,Orenburg,Oblast,Region,Оренбургская область,55.6332279963439,51.99996293081106
+53,188,RUS,Russia,54,Penza,Oblast,Region,Пензенская область,44.659810679120625,53.18655759362369
+54,188,RUS,Russia,55,Perm',Kray,Territory,Пермская край,56.24062541965279,59.150724939286754
+55,188,RUS,Russia,56,Primor'ye,Kray,Territory,Приморский край,134.76058101500124,45.182490801322885
+56,188,RUS,Russia,57,Pskov,Oblast,Region,Псковская область,29.258821447555093,57.22388131469144
+57,188,RUS,Russia,58,Rostov,Oblast,Region,Ростовская область,41.339692863816005,47.73707966862071
+58,188,RUS,Russia,59,Ryazan',Oblast,Region,Рязанская область,40.65442624707927,54.30686037320177
+59,188,RUS,Russia,60,Sakhalin,Oblast,Region,Сахалинская область,143.62389536522087,49.940166419001514
+60,188,RUS,Russia,61,Sakha,Respublika,Republic,Республика Саха,130.15506579975457,66.15838366895525
+61,188,RUS,Russia,62,Samara,Oblast,Region,Самарская область,50.470942531224296,53.28817256765034
+62,188,RUS,Russia,63,Saratov,Oblast,Region,Саратовская область,46.83063376063173,51.590363701722524
+63,188,RUS,Russia,64,Smolensk,Oblast,Region,Смоленская область,33.01268278290699,54.928336923969354
+64,188,RUS,Russia,65,Stavropol',Kray,Territory,Ставропольский край,43.40008778650341,44.92780484293189
+65,188,RUS,Russia,66,Sverdlovsk,Oblast,Region,Свердловская область,61.56166746577602,58.6147625063696
+66,188,RUS,Russia,67,Tambov,Oblast,Region,Тамбовская область,41.637191825697776,52.65748874357666
+67,188,RUS,Russia,68,Tatarstan,Respublika,Republic,Республика Татарстан,50.93665011899187,55.38092812059586
+68,188,RUS,Russia,69,Tomsk,Oblast,Region,Томская область,82.13438193519062,58.476777431286294
+69,188,RUS,Russia,70,Tula,Oblast,Region,Тульская область,37.584039357568386,53.87911849154001
+70,188,RUS,Russia,71,Tuva,Respublika,Republic,Республика Тыва,94.79303950550737,51.591418725937736
+71,188,RUS,Russia,72,Tver',Oblast,Region,Тверская область,34.7485497705309,57.06336101260323
+72,188,RUS,Russia,73,Tyumen',Oblast,Region,Тюменская область,69.16750638700144,57.66523626421164
+73,188,RUS,Russia,74,Udmurt,Respublika,Republic,Удмуртская Республика,52.81131909187177,57.18971934061399
+74,188,RUS,Russia,75,Ul'yanovsk,Oblast,Region,Ульяновская область,47.96307183730094,53.904749013682824
+75,188,RUS,Russia,76,Vladimir,Oblast,Region,Владимирская область,40.69195679992686,55.99478691751805
+76,188,RUS,Russia,77,Volgograd,Oblast,Region,Волгоградская область,44.184681595258105,49.59961189150784
+77,188,RUS,Russia,78,Vologda,Oblast,Region,Вологодская область,40.52341590411339,59.97092928207242
+78,188,RUS,Russia,79,Voronezh,Oblast,Region,Воронежская область,40.30995529588178,50.9597523826156
+79,188,RUS,Russia,80,Yamal-Nenets,Avtonomnyy Okrug,Autonomous Province,Ямало-Ненецкий АОк,74.55337877581289,67.12685799793799
+80,188,RUS,Russia,81,Yaroslavl',Oblast,Region,Ярославская область,39.167901036916994,57.86211613258931
+81,188,RUS,Russia,82,Yevrey,Avtonomnaya Oblast,Autonomous Region,Eврейская АОб,132.23846109885804,48.52124224213918
+82,188,RUS,Russia,83,Zabaykal'ye,Kray,Territory,Забайкальский край,116.19613390044495,52.8393190776185
+83,188,RUS,Russia,91,Crimea,Respublika,Republic,Республика Крым,34.349547015782996,45.30503542017617
